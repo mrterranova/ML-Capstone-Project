@@ -1,0 +1,570 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<div class="off-canvas position-right is-transition-overlap is-closed" id="offCanvas" data-off-canvas="" data-transition="overlap" aria-hidden="true" data-e="nfxonl-e">
+	<ul class="menu vertical accordion-menu" data-accordion-menu="" role="tree" aria-multiselectable="true" data-e="jfq68e-e">
+		<li role="treeitem"><a href="https://diatoms.org/">Home</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+		<li role="treeitem" class="is-accordion-submenu-parent" aria-controls="jxl5m2-acc-menu" aria-expanded="false" id="knaly5-acc-menu-link">
+			<a href="https://diatoms.org/morphology">Morphology</a>
+			<ul class="menu vertical submenu is-accordion-submenu" data-submenu="" role="group" style="display: none;" aria-labelledby="knaly5-acc-menu-link" aria-hidden="true" id="jxl5m2-acc-menu">
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology">All Morphological Groups</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/centric">Centric</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/araphid">Araphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/eunotioid">Eunotioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/symmetric_biraphid">Symmetric Biraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/monoraphid">Monoraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/asymmetric_biraphid">Asymmetric Biraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/epithemioid">Epithemioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/nitzschioid">Nitzschioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/surirelloid">Surirelloid</a></li>
+							</ul>
+		</li>
+		<li role="treeitem"><a href="https://diatoms.org/genera">Genera</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/species">Species</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/glossary">Glossary</a></li>
+		<li role="treeitem" class="is-accordion-submenu-parent" aria-controls="q5ckdy-acc-menu" aria-expanded="false" id="rd48om-acc-menu-link">
+			<a href="https://diatoms.org/about">About Us</a>
+			<ul class="menu vertical submenu is-accordion-submenu" data-submenu="" role="group" style="display: none;" aria-labelledby="rd48om-acc-menu-link" aria-hidden="true" id="q5ckdy-acc-menu">
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/about">About</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/news">News</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/projects">Projects</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/review-board">Review Board</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/taxon-contributors">Taxon Contributors</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/contact">Contact Us</a></li>
+			</ul>
+		</li>
+		<li role="treeitem"><a href="https://diatoms.org/what-are-diatoms">What are diatoms?</a></li>
+	</ul>
+	<div class="search-form">
+		<form class="taxa-search-form" action="https://diatoms.org/search/results">
+			<label class="show-for-sr">Search</label>
+			<input type="search" class="search-input" id="searchInputOffcanvas" name="q" value="" placeholder="Search">
+			<button type="submit" class="button"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></button>
+		</form>
+	</div>
+
+	<button class="close-button" aria-label="Close menu" type="button" data-close="">
+		<span aria-hidden="true">×</span>
+	</button>
+</div><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+
+<div class="off-canvas-content" data-off-canvas-content="">
+
+	
+	<header class="site-header">
+		<div class="title-bar hide-for-large">
+			<div class="title-bar-title"><a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America">Diatoms of North America</a></div>
+			<button class="menu-icon" type="button" data-open="offCanvas" aria-expanded="false" aria-controls="offCanvas"></button>
+		</div>
+		<div class="grid-container show-for-large">
+
+			<div id="main-nav">
+				<div class="grid-x">
+					<div class="cell shrink">
+						<div class="site-name">
+							<a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America"></a>
+						</div>
+					</div>
+					<div class="cell auto">
+						<ul class="dropdown menu align-center" data-dropdown-menu="" role="menubar" data-e="gia76g-e">
+							<li role="menuitem"><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+							<li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Morphology">
+								<a href="https://diatoms.org/morphology">Morphology</a>
+								<ul class="menu vertical submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/centric">Centric</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/araphid">Araphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/eunotioid">Eunotioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/symmetric_biraphid">Symmetric Biraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/monoraphid">Monoraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/asymmetric_biraphid">Asymmetric Biraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/epithemioid">Epithemioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/nitzschioid">Nitzschioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/surirelloid">Surirelloid</a></li>
+																	</ul>
+							</li>
+							<li role="menuitem"><a href="https://diatoms.org/genera">Genera</a></li>
+							<li role="menuitem"><a href="https://diatoms.org/species">Species</a></li>
+							<li role="menuitem"><a href="https://diatoms.org/glossary">Glossary</a></li>
+							<li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="About Us">
+								<a href="https://diatoms.org/about">About Us</a>
+								<ul class="menu vertical submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/news">News</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/projects">Projects</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/review-board">Review Board</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/taxon-contributors">Taxon Contributors</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/contact">Contact Us</a></li>
+								</ul>
+							</li>
+							<li role="menuitem"><a href="https://diatoms.org/what-are-diatoms">What are diatoms?</a></li>
+						</ul>
+					</div>
+					<div class="cell shrink">
+						<div class="nav-search">
+							<button type="button" class="button search-toggle" data-toggle="searchPanel" aria-controls="searchPanel"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></button>
+						</div>
+					</div>
+				</div>
+				<div class="search-form-panel grid-x" id="searchPanel" data-toggler="" data-animate="fade-in fade-out" style="display: none;" aria-expanded="false" data-e="wy01lv-e">
+					<div class="cell shrink">
+						<div class="site-name">
+							<a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America"></a>
+						</div>
+					</div>
+					<div class="cell auto">
+						<form class="taxa-search-form" action="https://diatoms.org/search/results">
+							<label><span class="show-for-sr">Search taxa, citations, glossary, contributors, and images</span><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></label>
+							<input type="search" class="search-input" id="searchInput" name="q" value="" placeholder="Search taxa, citations, glossary, contributors, and images">
+							<button type="submit" class="button"><span class="show-for-sr">Submit</span></button>
+						</form>
+					</div>
+					<div class="cell shrink">
+						<div class="nav-search">
+							<button type="button" class="button search-toggle" data-toggle="searchPanel" aria-controls="searchPanel"><span class="show-for-sr">Close search</span><svg class="svg-inline--fa fa-times fa-w-12" aria-hidden="true" data-prefix="fas" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M323.1 441l53.9-53.9c9.4-9.4 9.4-24.5 0-33.9L279.8 256l97.2-97.2c9.4-9.4 9.4-24.5 0-33.9L323.1 71c-9.4-9.4-24.5-9.4-33.9 0L192 168.2 94.8 71c-9.4-9.4-24.5-9.4-33.9 0L7 124.9c-9.4 9.4-9.4 24.5 0 33.9l97.2 97.2L7 353.2c-9.4 9.4-9.4 24.5 0 33.9L60.9 441c9.4 9.4 24.5 9.4 33.9 0l97.2-97.2 97.2 97.2c9.3 9.3 24.5 9.3 33.9 0z"></path></svg><!-- <i class="fas fa-times" aria-hidden="true"></i> --></button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<section class="site-main">
+
+  <header class="page-header">
+    <div class="grid-container">
+      <h1 class="page-title">
+        <a class="name-genera" href="https://diatoms.org/genera/achnanthes">Achnanthes</a> <span class="name-species">felinophila  </span>
+      </h1>
+      <p class="species-author">R.L.Lowe and A.R.Sherwood 2009</p>
+    </div>
+  </header>
+
+  <main>
+
+    <div class="species-overview section">
+      <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+          <div class="medium-6 large-4 xlarge-3 cell">
+            <div class="taxa-image guide-image" data-toggle="species-guide" aria-controls="species-guide" data-is-focus="false" data-yeti-box="species-guide" aria-haspopup="true" aria-expanded="false">
+              <a href="/species/achnanthes_felinophila/guide">
+                              <img loading="lazy" src="https://assets.diatoms.org/images/species_guide_images/_square600/Achnanthes_felinophila_guide.jpg" alt="Achnanthes Felinophila Guide">
+                              <span class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></span>
+              </a>
+            </div>
+          </div>
+          <div class="medium-6 large-8 xlarge-9 cell">
+            <div class="grid-y large-grid-frame">
+              <div class="cell large-auto">
+                <div class="grid-x grid-padding-x">
+                  <div class="cell large-6">
+                    <ul class="species-observations inline rule">
+                      <li>
+                        <div class="list-name">Category</div>
+                        <div class="list-value">
+                          <a href="https://diatoms.org/morphology/monoraphid">Monoraphid</a>
+                        </div>
+                      </li>
+                                          <li>
+                        <div class="list-name">Length Range</div>
+                        <div class="list-value">16.0-42.2 µm</div>
+                      </li>
+                                                              <li>
+                        <div class="list-name">Width Range</div>
+                        <div class="list-value">6-10 µm </div>
+                      </li>
+                                                              <li>
+                        <div class="list-name">Striae in 10 µm</div>
+                        <div class="list-value">13-15 on both valves</div>
+                      </li>
+                                        </ul>
+                  </div>
+                  <div class="cell large-6">
+
+                    <ul class="species-names simple">
+                    
+                    
+
+                                        </ul>
+
+                  </div>
+                </div>
+              </div>
+              <div class="cell shrink">
+                <div class="grid-x grid-padding-x">
+                  <div class="cell large-6">
+                    <ul class="species-contributors inline">
+                      <li>
+                        <div class="list-name">Contributor</div>
+                        <div class="list-value">
+                                                                          <a href="https://diatoms.org/contributor/RexLowe">Rex Lowe</a>
+                                                  - Dec 2011
+                        </div>
+                      </li>
+                      <li>
+                        <div class="list-name">Reviewer</div>
+                        <div class="list-value">
+                                                                          <a href="https://diatoms.org/contributor/SamRushforth">Sam Rushforth</a>
+                                                  - Jan 2012
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+        </div>
+
+    <div id="species-nav" class="species-nav sticky-container" data-sticky-container="" style="height: 60.8px;">
+      <div data-sticky="" data-top-anchor="species-nav" data-margin-top="0" class="sticky is-anchored is-at-top" data-resize="7kzqd1-sticky" data-mutate="7kzqd1-sticky" data-e="qkmxs7-e" style="max-width: 779px; margin-top: 0px; bottom: auto; top: 0px;" data-events="mutate">
+        <div class="grid-container">
+          <div class="species-nav-container">
+                      <a class="button-compare button" href="/species/achnanthes_felinophila/compare">Compare </a>
+                      <ul class="menu" data-magellan="" data-offset="20" data-resize="l39n6f-magellan" data-scroll="l39n6f-magellan" id="l39n6f-magellan" data-e="t2h2m4-e" data-events="scroll">
+              <li><a href="#identification">Identification</a></li>
+              <li><a href="#autecology">Autecology</a></li>
+              <li><a href="#original-description">Original Description</a></li>
+                          <li><a href="#citations">Citations &amp; Links</a></li>
+                        </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div id="identification" data-magellan-target="identification" class="section species-identification">
+      <div class="grid-container">
+        <h2 class="section-header h3">Identification</h2>
+
+              <div class="species-images-lm">
+          <div class="image-set">
+                                                                            <a href="/species/achnanthes_felinophila/images#image-7482" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Afel9.jpg" alt="Achnanthes felinophila LM2" style="height: 441px;">
+            </a>
+                                                                  <a href="/species/achnanthes_felinophila/images#image-13138" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/afel5.jpg" alt="Achnanthes felinophila LM3" style="height: 348px;">
+            </a>
+                                                                  <a href="/species/achnanthes_felinophila/images#image-7485" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Afelinophila.jpg" alt="Achnanthes felinophila LM1" style="height: 324px;">
+            </a>
+                                                                  <a href="/species/achnanthes_felinophila/images#image-7481" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Afel8.jpg" alt="Achnanthes felinophila LM4" style="height: 215px;">
+            </a>
+                                                                  <a href="/species/achnanthes_felinophila/images#image-7483" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Afeline3.jpg" alt="Achnanthes felinophila LM6" style="height: 200px;">
+            </a>
+                                                                  <a href="/species/achnanthes_felinophila/images#image-7486" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Afelinprv.jpg" alt="Achnanthes felinophila LM7" style="height: 187px;">
+            </a>
+                                                                  <a href="/species/achnanthes_felinophila/images#image-7484" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Afeline7.jpg" alt="Achnanthes felinophila LM5" style="height: 171px;">
+            </a>
+                    </div>
+          <div class="image-set-key">
+            <a href="/species/achnanthes_felinophila/images"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --> View image metadata</a>
+                      </div>
+        </div>
+      
+
+
+      
+      
+              <div class="species-description">
+          <h3 class="h4">Description</h3>
+          <div class="two-column">
+            <p>Smaller valves are lanceolate, becoming distinctly triundulate in larger specimens, with narrowly rounded to cuneate ends. The raphe valve has a narrow axial area and a rectangular central area reaching the valve margins. The raphe is sinuous externally, with proximal ends deflected slightly in one direction and distal ends curved strongly towards mantle in opposite direction. Internal raphe slits with proximal ends straight. The rapheless valve axial area is near the valve margin. Striae are punctate and radiate throughout on raphe valve. Striae on the rapheless valve are parallel in the center, becoming radiate and curved at the ends of the valves. Internal thickenings separating striae have oblique ridges in in the rapheless valve forming a spiral pattern visible by SEM.</p>
+          </div>
+        </div>
+      
+      </div>
+    </div>
+
+      <div id="autecology" data-magellan-target="autecology" class="section species-autecology">
+      <div class="grid-container">
+        <h2 class="section-header h3">Autecology</h2>
+
+        <div class="grid-x grid-margin-x">
+                  <div class="large-6 cell">
+            <div class="autecology-description">
+              <p>This species has been verified from one location, the Iao Valley of Maui, Hawai'i, where it was found on a relatively dry, volcanic rock wall. Other taxa at the site include <em>Cosmioneis</em> sp., <em>Achanthes tumescens, Luticola</em> sp., <em>Diadesmis contenta</em>, <em>Diadesmis</em> sp., and <em>Denticula</em> cf. <em>subtilis</em>.</p>
+            </div>
+          </div>
+                  <div class="large-6 cell">
+            <div class="callout">
+              <div class="species-autecology-categories">
+                <ul class="inline rule">
+                                  <li>
+                    <div class="list-name">Size Range, µm3</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?sizeRange=1001-10000" class="tag">1001-10000</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Motility</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?motility=slightly-motile" class="tag">Slightly motile</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Attachment</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?attachment=unattached" class="tag">Unattached</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Habitat</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?habitat=moist" class="tag">Moist habitats</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Colony</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?colony=solitary" class="tag">Solitary</a>
+                                        </div>
+                  </li>
+                                                                                                                  <li>
+                    <div class="list-name">Waterbody</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?waterbody=inland" class="tag">Inland</a>
+                                        </div>
+                  </li>
+                                                                  <li>
+                    <a href="/practitioners/how-and-where-do-diatoms-live-autecology-tags" class="autecology-key">Learn more about this <svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fas" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fas fa-angle-right"></i> --></a>
+                  </li>
+                                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-x grid-padding-x small-up-1 medium-up-2 large-up-3 xlarge-up-4">
+                        </div>
+
+      </div>
+    </div>
+
+      <div id="original-description" data-magellan-target="original-description" class="section species-original-description">
+      <div class="grid-container">
+        <h2 class="section-header h3">Original Description</h2>
+        <div class="grid-x grid-margin-x">
+                  <div class="large-6 cell">
+            <p>Valves distinctly triundulate in large specimens (Figs 31-34, 41-45), becoming less triundulate and more lanceolate in smaller valves (Figs 35-40, 46-50), with narrowly rounded to cuneate ends, 11-46 µm long, 6-10 µm wide. Raphe valve with narrow axial area and a rectangular central area reaching the valve margins. Raphe externally sinuous, with proximal ends deflected slightly in one direction (Fig. 51), with distal ends curved strongly towards mantle in opposite direction. Internal raphe slits with proximal ends straight (Fig. 52). Rapheless valve with axial area near valve margin. Striae punctate, radiate throughout on raphe valve (Figs 31-40), on rapheless valve parallel in the center becoming radiate with respect to the axial area, curved at ends (Figs 41-50), 13-15 in 10 µm on both valves. Puncta 16 in 10 µm on both valves. Internal costae separating striae with oblique ridges in rapheless valve forming a spiral pattern visible by SEM (Figs 53, 54).</p>
+          </div>
+                  <div class="large-6 cell">
+            <ul class="species-names inline rule">
+                                      <li>
+                <div class="list-name">Author</div>
+                <div class="list-value">R.L.Lowe and A.R.Sherwood 2009</div>
+              </li>
+                                      <li>
+                <div class="list-name">Length Range</div>
+                <div class="list-value">11-46 µm</div>
+              </li>
+                                      <li>
+                <div class="list-name">Width</div>
+                <div class="list-value">6-10 µm</div>
+              </li>
+                                      <li>
+                <div class="list-name">Striae in 10µm</div>
+                <div class="list-value">13-15 on both valves</div>
+              </li>
+                        </ul>
+          </div>
+        </div>
+
+              <div class="species-original-images">
+          <h3 class="h4">Original Images</h3>
+          <div class="masonry-css">
+                                <div class="masonry-css-item">
+              <a href="https://diatoms.org/images/15209"><img loading="lazy" src="https://assets.diatoms.org/images/species_orig_images/_max600/Afelinophila_OrigIll.jpg" alt="Achnanthes felinophilia orig illus"></a>
+            </div>
+                                          <div class="masonry-css-item">
+              <a href="https://diatoms.org/images/14222"><img loading="lazy" src="https://assets.diatoms.org/images/species_orig_descriptions/_max600/Afelinophila_OrigDescr.jpg" alt="Achnanthes felinophila orig desc"></a>
+            </div>
+                    </div>
+
+                </div>
+      
+      </div>
+    </div>
+
+    
+      <div id="citations" data-magellan-target="citations" class="section species-citations">
+      <div class="grid-container">
+        <h2 class="section-header h3">Citations &amp; Links</h2>
+        <div class="grid-x grid-margin-x">
+          <div class="large-6 cell">
+            <h3 class="h4">Citations</h3>
+  <ul class="citations-list">
+        <li><div class="citation-title">
+  <a href="https://diatoms.org/citations/lowe_rl_sherwood_ar_and_ress_jr-2009-freshwater_species_of_achnanthes_bory"><strong class="citation-title">Lowe, R.L., Sherwood, A.R. and Ress, J.R. (2009)</strong> Freshwater species of <em>Achnanthes</em> Bory from Hawai'i <em>Diatom Research 24(2): 327-340</em> </a>
+</div>
+<div class="citation-publication">Publication Link: <a href="https://dx.doi.org/10.1080/0269249X.2009.9705805">10.1080/0269249X.2009.9705805</a></div>
+</li>
+    </ul>
+          </div>
+          <div class="large-6 cell">
+            <h3 class="h4">Links</h3>
+            <ul class="simple">
+
+                          <li>
+                <div class="list-name">Index Nominum Algarum</div>
+                <div class="list-value">
+                                                                    <a href="http://ucjeps.berkeley.edu/cgi-bin/porp_cgi.pl?130266">Original</a>
+                                                  </div>
+              </li>
+            
+                        
+            
+            
+            
+            
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+      <div id="cite" data-magellan-target="" class="section species-cite">
+      <div class="grid-container">
+        <h2 class="section-header h3">Cite This Page</h2>
+        <p>
+                          Lowe, R.          (2011).
+          Achnanthes felinophila.
+          In Diatoms of North America.
+          Retrieved May 04, 2025, from https://diatoms.org/species/47820/achnanthes_felinophila
+        </p>
+      </div>
+    </div>
+
+  </main>
+
+</section>
+
+
+
+<div class="dropdown-guide species-guide dropdown-pane right" id="species-guide" data-dropdown="" data-hover="true" data-hover-pane="true" aria-hidden="true" data-yeti-box="species-guide" data-resize="species-guide" aria-labelledby="w59g8e-dd-anchor" data-e="hxgoma-e">
+  <div class="grid-x grid-margin-x">
+    <div class="medium-6 cell">
+      <div class="guide-image">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_guide_images/_square600/Achnanthes_felinophila_guide.jpg" alt="Achnanthes Felinophila Guide">
+              </div>
+    </div>
+    <div class="medium-6 cell">
+      <div class="guide-content">
+        <h3 class="guide-name">Achnanthes felinophila  </h3>
+        <p class="guide-author">R.L.Lowe and A.R.Sherwood 2009</p>
+        <ol class="simple guide-points">
+                                              <li>Valves triundulate</li>
+                                                <li>Ends cuneate</li>
+                                                <li>Proximal raphe ends deflected slightly</li>
+                                                <li>Rapheless valve with eccentric axial area</li>
+                              </ol>
+
+      </div>
+    </div>
+  </div>
+  <div class="guide-description">
+    Valves are distinctly triundulate in large specimens, becoming less triundulate and more lanceolate in smaller valves. The valve ends are narrow and cuneate. The raphe valve has a narrow axial area and a rectangular central area, extending to the valve margin. The proximal raphe ends are slightly unilaterally deflected slightly. The...
+  </div>
+</div>
+
+
+	<footer class="site-footer">
+		<div class="grid-container">
+			<div class="site-footer-main grid-x grid-margin-x">
+				<div class="medium-4 cell">
+					<h4 class="site-name h4">Diatoms of North America</h4>
+					<p>The source for diatom identification and ecology</p>
+											<div class="resource-citation"><p>Cite as: Spaulding et al. 2021. Diatoms.org: supporting taxonomists, connecting communities. Diatom Research 36(4): 291-304. <a href="https://doi.org/10.1080/0269249X.2021.2006790">https://doi.org/10.1080/0269249X.2021.2006790</a></p></div>
+									</div>
+				<div class="medium-3 large-2 medium-offset-1 cell">
+					<ul class="menu vertical">
+						<li><a href="https://diatoms.org/">Home</a></li>
+						<li><a href="https://diatoms.org/what-are-diatoms">What are Diatoms?</a></li>
+						<li><a href="https://diatoms.org/about">About Us</a></li>
+						<li><a href="https://diatoms.org/contact">Contact Us</a></li>
+					</ul>
+				</div>
+				<div class="medium-3 large-2 cell">
+					<ul class="menu vertical">
+						<li><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+						<li><a href="https://diatoms.org/morphology">Morphology</a></li>
+						<li><a href="https://diatoms.org/genera">Genera</a></li>
+						<li><a href="https://diatoms.org/species">Species</a></li>
+						<li><a href="https://diatoms.org/glossary">Glossary</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="site-legal grid-x grid-padding-x">
+				<div class="medium-12 cell">
+					<div class="privacy"><a href="https://diatoms.org/privacy-policy">Privacy Policy</a></div>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
+
+
+
+
+<script src="/js/vendor/what-input/dist/what-input.min.js"></script>
+<script src="/js/vendor/foundation-sites/dist/js/foundation.min.js"></script>
+<script src="/js/vendor/rangeSlider/ion.rangeSlider.js"></script>
+<script src="/js/vendor/slick-carousel/slick/slick.min.js"></script>
+<script src="/js/app.js?2.0.02"></script><div class="reveal-overlay"><div class="reveal medium" id="emapKeyModal" data-reveal="" role="dialog" aria-hidden="true" data-yeti-box="emapKeyModal" data-resize="emapKeyModal" data-e="m0fnzw-e">
+  <h2 class="h3">Responses</h2>
+  <p>The 15 response plots show an environmental variable (x axis) against the relative abundance (y axis) of <em>Achnanthes felinophila  </em> from all the stream reaches where it was present. Note that the relative abundance scale is the same on each plot. Explanation of each environmental variable and units are as follows:</p>
+  <p>
+    <strong>ELEVATION</strong> = stream reach elevation (meters)<br>
+    <strong>STRAHLER</strong> = distribution plot of the Strahler Stream Order <br>
+    <strong>SLOPE</strong> = stream reach gradient (degrees)<br>
+    <strong>W1_HALL</strong> = an index that is a measure of streamside (riparian) human activity that ranges from 0 - 10, with a value of 0 indicating of minimal disturbance to a value of 10 indicating severe disturbance.<br>
+    <strong>PHSTVL</strong> = pH measured in a sealed syringe sample (pH units)<br>
+    <strong>log_COND</strong> = log concentration of specific conductivity (µS/cm)<br>
+    <strong>log_PTL</strong> = log concentration of total phosphorus (µg/L)<br>
+    <strong>log_NO3</strong> = log concentration of nitrate (µeq/L)<br>
+    <strong>log_DOC</strong> = log concentration of dissolved organic carbon (mg/L)<br>
+    <strong>log_SIO2</strong> = log concentration of silicon (mg/L)<br>
+    <strong>log_NA</strong> = log concentration of sodium (µeq/L)<br>
+    <strong>log_HCO3</strong> = log concentration of the bicarbonate ion (µeq/L)<br>
+    <strong>EMBED</strong> = percent of the stream substrate that is embedded by sand and fine sediment<br>
+    <strong>log_TURBIDITY</strong> = log of turbidity, a measure of cloudiness of water, in nephelometric turbidity units (NTU).<br>
+    <strong>DISTOT</strong> = an index of total human disturbance in the watershed that ranges from 1 - 100, with a value of 0 indicating of minimal disturbance to a value of 100 indicating severe disturbance.<br>
+  </p>
+  <button class="close-button" data-close="" aria-label="Close modal" type="button">
+    <span aria-hidden="true">×</span>
+  </button>
+</div></div>
+<script src="/js/dynamic.js??2.0.02"></script>
+<script src="//unpkg.com/alpinejs" defer=""></script>
+
+
+
+<script>$(document).ready(function(){
+  let revealOverlay = document.querySelector('.reveal-overlay');
+  var globalModal = document.querySelector('#globalModal');
+  
+  if (globalModal) {
+    if (window.sessionStorage.getItem('close-banner') === '1') {
+      $('#globalModal').foundation('close');
+    } else {
+      $('#globalModal').foundation('open');
+      
+      globalModal.addEventListener('click', function (e) {
+        window.sessionStorage.setItem('close-banner', '1');
+      });
+    }
+  }
+});</script>
+
+<div></div>
+</body>
+</html>

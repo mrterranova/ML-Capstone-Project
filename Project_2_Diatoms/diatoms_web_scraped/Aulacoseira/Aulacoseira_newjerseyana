@@ -1,0 +1,388 @@
+
+    <div class="species-images-info">
+
+      <div class="grid-container">
+                <div class="image-set-key">
+          <span class="type-image-key">Type Specimen</span>
+        </div>
+        
+        <div class="image-set">
+
+                            <div id="image-257864" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/257864">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Aulacoseira-newjerseyana-LM6.jpg" alt="Aulacoseira newjerseyana LM6">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC 123866</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Surprise Lake, New Jersey</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">41.186, -74.347</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Valve face</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Core depth 61–64 cm</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-257865" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/257865">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Aulacoseira-newjerseyana-LM5.jpg" alt="Aulacoseira newjerseyana LM5">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC 123865</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Surprise Lake, New Jersey</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">41.186, -74.347</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Core depth 49–51 cm</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-257862" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/257862">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Aulacoseira-newjerseyana-LM3.jpg" alt="Aulacoseira newjerseyana LM3">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC 123865</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Surprise Lake, New Jersey</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">41.186, -74.347</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Core depth 49–51 cm</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-257863" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/257863">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Aulacoseira-newjerseyana-LM7.jpg" alt="Aulacoseira newjerseyana LM7">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC 123866</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Surprise Lake, New Jersey</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">41.186, -74.347</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">valve view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Core depth 61–64 cm</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-257866" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/257866">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Aulacoseira-newjerseyana-LM4.jpg" alt="Aulacoseira newjerseyana LM4">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC 123864</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Surprise Lake, New Jersey</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">41.186, -74.347</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Deep focus</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Core depth 41–43 cm</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-257858" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/257858">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Aulacoseira-newjerseyana-LM2.jpg" alt="Aulacoseira newjerseyana LM2">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC 123864</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Surprise Lake, New Jersey</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">41.186, -74.347</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">High focus</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Core depth 41–43 cm</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-257854" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image type-image type-holotype">
+                <a href="https://diatoms.org/images/257854">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Aulacoseira-newjerseyana-LM1.jpg" alt="Aulacoseira newjerseyana LM1">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC 59350</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Surprise Lake, New Jersey</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">41.186, -74.347</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Holotype specimen</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Core depth 31–33 cm</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        
+        
+                            <div id="image-257888" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/257888">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/Aulacoseira-newjerseyana-SEM1.jpg" alt="Aulacoseira newjerseyana SEM1">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">ANSP NJ SS0831</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Surprise Lake, New Jersey</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">41.1860, -74.347</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">External view, valve showing linking spines</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Core depth 41–43 cm</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 1 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-257884" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/257884">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/Aulacoseira-newjerseyana-SEM2.jpg" alt="Aulacoseira newjerseyana SEM2">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">ANSP NJ SS830</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Surprise Lake, New Jersey</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">41.186, -74.347</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Frustule, external girdle view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Core depth 31–33 cm</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 1 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-257883" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/257883">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/Aulacoseira-newjerseyana-SEM3.jpg" alt="Aulacoseira newjerseyana SEM3">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">ANSP NJ SS830</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Surprise Lake, New Jersey</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">41.186, -74.347</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Section through mantle showing shallow ringleiste and sinusoidal canal linking external and internal opening of rimoportula</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Core depth 31–33 cm</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 1 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+        
+        </div>
+
+      </div>
+
+    </div>
+  

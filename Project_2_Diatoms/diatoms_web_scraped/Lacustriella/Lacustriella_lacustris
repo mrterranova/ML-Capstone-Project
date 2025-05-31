@@ -1,0 +1,223 @@
+
+    <div class="species-images-info">
+
+      <div class="grid-container">
+                <div class="image-set-key">
+          <span class="type-image-key">Type Specimen</span>
+        </div>
+        
+        <div class="image-set">
+
+                            <div id="image-10862" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/10862">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/LAlacust_MBE2215a_1051_48.jpg" alt="Lalacust  Mbe2215A 1051 48">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">Science Museum of Minnsota MBE2215A</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">Science Museum of Minnsota MBE2215</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Lake Superior, Vermillion Point, Michigan, United States</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">46.763394, -85.149047</div>
+                </li>
+                                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7682" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7682">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/CAlacust_MBE1439A_983_44.6.jpg" alt="Lacustriella lacustris LM1">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">Science Museum of Minnsota MBE 1439A</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">Science Museum of Minnsota MBE 1439</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Whittlesley Lake, Isle Royale National Park, Michigan, United States</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">48.005459, -88.710652</div>
+                </li>
+                                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-10866" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/10866">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/LAlacust_MBE2215a_899_41.jpg" alt="Lacustriella lacustris LM4">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">Science Museum of Minnsota MBE2215A</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">Science Museum of Minnsota MBE2215</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Lake Superior, Vermillion Point, Michigan, United States</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">46.763394, -85.149047</div>
+                </li>
+                                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-10865" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/10865">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/LAlacust_MBE2215a_844_38.jpg" alt="Lacustriella lacustris LM2">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">Science Museum of Minnsota MBE2215A</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">Science Museum of Minnsota MBE2215</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Lake Superior, Vermillion Point, Michigan, United States</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">46.763394, -85.149047</div>
+                </li>
+                                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-10864" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/10864">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/LAlacust_MBE2215a_788_36.jpg" alt="Lacustriella lacustris LM3">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">Science Museum of Minnsota MBE2215A</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">Science Museum of Minnsota MBE2215</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Lake Superior, Vermillion Point, Michigan, United States</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">46.763394, -85.149047</div>
+                </li>
+                                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-10863" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/10863">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/LAlacust_MBE2215a_732_33.jpg" alt="Lacustriella lacustris LM6">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">Science Museum of Minnsota MBE 1439A</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">Science Museum of Minnsota MBE 1439</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Whittlesley Lake, Isle Royale National Park, Michigan, United States</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">46.763394, -85.149047</div>
+                </li>
+                                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        
+        
+        
+        </div>
+
+      </div>
+
+    </div>
+  

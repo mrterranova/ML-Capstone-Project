@@ -1,0 +1,616 @@
+
+
+<div class="off-canvas position-right is-transition-overlap is-closed" id="offCanvas" data-off-canvas="" data-transition="overlap" aria-hidden="true" data-e="wddwqj-e">
+	<ul class="menu vertical accordion-menu" data-accordion-menu="" role="tree" aria-multiselectable="true" data-e="janrye-e">
+		<li role="treeitem"><a href="https://diatoms.org/">Home</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+		<li role="treeitem" class="is-accordion-submenu-parent" aria-controls="4rml94-acc-menu" aria-expanded="false" id="2div8e-acc-menu-link">
+			<a href="https://diatoms.org/morphology">Morphology</a>
+			<ul class="menu vertical submenu is-accordion-submenu" data-submenu="" role="group" style="display: none;" aria-labelledby="2div8e-acc-menu-link" aria-hidden="true" id="4rml94-acc-menu">
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology">All Morphological Groups</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/centric">Centric</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/araphid">Araphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/eunotioid">Eunotioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/symmetric_biraphid">Symmetric Biraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/monoraphid">Monoraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/asymmetric_biraphid">Asymmetric Biraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/epithemioid">Epithemioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/nitzschioid">Nitzschioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/surirelloid">Surirelloid</a></li>
+							</ul>
+		</li>
+		<li role="treeitem"><a href="https://diatoms.org/genera">Genera</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/species">Species</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/glossary">Glossary</a></li>
+		<li role="treeitem" class="is-accordion-submenu-parent" aria-controls="zk3p89-acc-menu" aria-expanded="false" id="7t5mf3-acc-menu-link">
+			<a href="https://diatoms.org/about">About Us</a>
+			<ul class="menu vertical submenu is-accordion-submenu" data-submenu="" role="group" style="display: none;" aria-labelledby="7t5mf3-acc-menu-link" aria-hidden="true" id="zk3p89-acc-menu">
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/about">About</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/news">News</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/projects">Projects</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/review-board">Review Board</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/taxon-contributors">Taxon Contributors</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/contact">Contact Us</a></li>
+			</ul>
+		</li>
+		<li role="treeitem"><a href="https://diatoms.org/what-are-diatoms">What are diatoms?</a></li>
+	</ul>
+	<div class="search-form">
+		<form class="taxa-search-form" action="https://diatoms.org/search/results">
+			<label class="show-for-sr">Search</label>
+			<input type="search" class="search-input" id="searchInputOffcanvas" name="q" value="" placeholder="Search">
+			<button type="submit" class="button"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></button>
+		</form>
+	</div>
+
+	<button class="close-button" aria-label="Close menu" type="button" data-close="">
+		<span aria-hidden="true">×</span>
+	</button>
+</div><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+
+<div class="off-canvas-content" data-off-canvas-content="">
+
+	
+	<header class="site-header">
+		<div class="title-bar hide-for-large">
+			<div class="title-bar-title"><a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America">Diatoms of North America</a></div>
+			<button class="menu-icon" type="button" data-open="offCanvas" aria-expanded="false" aria-controls="offCanvas"></button>
+		</div>
+		<div class="grid-container show-for-large">
+
+			<div id="main-nav">
+				<div class="grid-x">
+					<div class="cell shrink">
+						<div class="site-name">
+							<a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America"></a>
+						</div>
+					</div>
+					<div class="cell auto">
+						<ul class="dropdown menu align-center" data-dropdown-menu="" role="menubar" data-e="9yvi9k-e">
+							<li role="menuitem"><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+							<li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Morphology">
+								<a href="https://diatoms.org/morphology">Morphology</a>
+								<ul class="menu vertical submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/centric">Centric</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/araphid">Araphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/eunotioid">Eunotioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/symmetric_biraphid">Symmetric Biraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/monoraphid">Monoraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/asymmetric_biraphid">Asymmetric Biraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/epithemioid">Epithemioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/nitzschioid">Nitzschioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/surirelloid">Surirelloid</a></li>
+																	</ul>
+							</li>
+							<li role="menuitem"><a href="https://diatoms.org/genera">Genera</a></li>
+							<li role="menuitem"><a href="https://diatoms.org/species">Species</a></li>
+							<li role="menuitem"><a href="https://diatoms.org/glossary">Glossary</a></li>
+							<li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="About Us">
+								<a href="https://diatoms.org/about">About Us</a>
+								<ul class="menu vertical submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/news">News</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/projects">Projects</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/review-board">Review Board</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/taxon-contributors">Taxon Contributors</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/contact">Contact Us</a></li>
+								</ul>
+							</li>
+							<li role="menuitem"><a href="https://diatoms.org/what-are-diatoms">What are diatoms?</a></li>
+						</ul>
+					</div>
+					<div class="cell shrink">
+						<div class="nav-search">
+							<button type="button" class="button search-toggle" data-toggle="searchPanel" aria-controls="searchPanel"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></button>
+						</div>
+					</div>
+				</div>
+				<div class="search-form-panel grid-x" id="searchPanel" data-toggler="" data-animate="fade-in fade-out" style="display: none;" aria-expanded="false" data-e="mf2yo0-e">
+					<div class="cell shrink">
+						<div class="site-name">
+							<a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America"></a>
+						</div>
+					</div>
+					<div class="cell auto">
+						<form class="taxa-search-form" action="https://diatoms.org/search/results">
+							<label><span class="show-for-sr">Search taxa, citations, glossary, contributors, and images</span><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></label>
+							<input type="search" class="search-input" id="searchInput" name="q" value="" placeholder="Search taxa, citations, glossary, contributors, and images">
+							<button type="submit" class="button"><span class="show-for-sr">Submit</span></button>
+						</form>
+					</div>
+					<div class="cell shrink">
+						<div class="nav-search">
+							<button type="button" class="button search-toggle" data-toggle="searchPanel" aria-controls="searchPanel"><span class="show-for-sr">Close search</span><svg class="svg-inline--fa fa-times fa-w-12" aria-hidden="true" data-prefix="fas" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M323.1 441l53.9-53.9c9.4-9.4 9.4-24.5 0-33.9L279.8 256l97.2-97.2c9.4-9.4 9.4-24.5 0-33.9L323.1 71c-9.4-9.4-24.5-9.4-33.9 0L192 168.2 94.8 71c-9.4-9.4-24.5-9.4-33.9 0L7 124.9c-9.4 9.4-9.4 24.5 0 33.9l97.2 97.2L7 353.2c-9.4 9.4-9.4 24.5 0 33.9L60.9 441c9.4 9.4 24.5 9.4 33.9 0l97.2-97.2 97.2 97.2c9.3 9.3 24.5 9.3 33.9 0z"></path></svg><!-- <i class="fas fa-times" aria-hidden="true"></i> --></button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<section class="site-main">
+
+  <header class="page-header">
+    <div class="grid-container">
+      <h1 class="page-title">
+        <a class="name-genera" href="https://diatoms.org/genera/achnanthidium">Achnanthidium</a> <span class="name-species">laticephalum  </span>
+      </h1>
+      <p class="species-author">H.Kobayasi 1997</p>
+    </div>
+  </header>
+
+  <main>
+
+    <div class="species-overview section">
+      <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+          <div class="medium-6 large-4 xlarge-3 cell">
+            <div class="taxa-image guide-image" data-toggle="species-guide" aria-controls="species-guide" data-is-focus="false" data-yeti-box="species-guide" aria-haspopup="true" aria-expanded="false">
+              <a href="/species/achnanthidium_laticephalum/guide">
+                              <img loading="lazy" src="https://assets.diatoms.org/images/species_guide_images/_square600/A_latecephalum_guide_copy.jpg" alt="A Latecephalum Guide Copy">
+                              <span class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></span>
+              </a>
+            </div>
+          </div>
+          <div class="medium-6 large-8 xlarge-9 cell">
+            <div class="grid-y large-grid-frame">
+              <div class="cell large-auto">
+                <div class="grid-x grid-padding-x">
+                  <div class="cell large-6">
+                    <ul class="species-observations inline rule">
+                      <li>
+                        <div class="list-name">Category</div>
+                        <div class="list-value">
+                          <a href="https://diatoms.org/morphology/monoraphid">Monoraphid</a>
+                        </div>
+                      </li>
+                                          <li>
+                        <div class="list-name">Length Range</div>
+                        <div class="list-value">10-16 µm</div>
+                      </li>
+                                                              <li>
+                        <div class="list-name">Width Range</div>
+                        <div class="list-value">3.5-3.9 µm </div>
+                      </li>
+                                                              <li>
+                        <div class="list-name">Striae in 10 µm</div>
+                        <div class="list-value">20-26 in the center valve, 35-40 at the ends</div>
+                      </li>
+                                        </ul>
+                  </div>
+                  <div class="cell large-6">
+
+                    <ul class="species-names simple">
+                                          <li>
+                        <div class="list-name">Synonyms</div>
+                        <div class="list-value">
+                                                                                            <em>Achnanthidium laticephalum (as 'latecephalum')</em> H.Kobayasi 1997<br>
+                                                                      </div>
+                      </li>
+                    
+                    
+
+                                        </ul>
+
+                  </div>
+                </div>
+              </div>
+              <div class="cell shrink">
+                <div class="grid-x grid-padding-x">
+                  <div class="cell large-6">
+                    <ul class="species-contributors inline">
+                      <li>
+                        <div class="list-name">Contributor</div>
+                        <div class="list-value">
+                                                                          <a href="https://diatoms.org/contributor/MarinaPotapova">Marina Potapova</a>
+                                                  - Aug 2010
+                        </div>
+                      </li>
+                      <li>
+                        <div class="list-name">Reviewer</div>
+                        <div class="list-value">
+                                                                          <a href="https://diatoms.org/contributor/SarahSpaulding">Sarah Spaulding</a>
+                                                  - Aug 2013
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+        </div>
+
+    <div id="species-nav" class="species-nav sticky-container" data-sticky-container="" style="height: 89.6px;">
+      <div data-sticky="" data-top-anchor="species-nav" data-margin-top="0" class="sticky is-anchored is-at-top" data-resize="0zkoab-sticky" data-mutate="0zkoab-sticky" data-e="1if3g2-e" style="max-width: 861px; margin-top: 0px; bottom: auto; top: 0px;" data-events="mutate">
+        <div class="grid-container">
+          <div class="species-nav-container">
+                      <a class="button-compare button" href="/species/achnanthidium_laticephalum/compare">Compare </a>
+                      <ul class="menu" data-magellan="" data-offset="20" data-resize="z1t4sh-magellan" data-scroll="z1t4sh-magellan" id="z1t4sh-magellan" data-e="9o3af5-e">
+              <li><a href="#identification">Identification</a></li>
+              <li><a href="#autecology">Autecology</a></li>
+              <li><a href="#original-description">Original Description</a></li>
+                          <li><a href="#citations">Citations &amp; Links</a></li>
+                          <li><a href="#updates">Updates</a></li>
+                        </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div id="identification" data-magellan-target="identification" class="section species-identification">
+      <div class="grid-container">
+        <h2 class="section-header h3">Identification</h2>
+
+              <div class="species-images-lm">
+          <div class="image-set">
+                                                                            <a href="/species/achnanthidium_laticephalum/images#image-7459" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Achn_lateceph4a_ed_1.jpg" alt="Achn Lateceph4A Ed 1" style="height: 409px;">
+            </a>
+                                                                  <a href="/species/achnanthidium_laticephalum/images#image-7461" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Achn_lateceph5a_ed_1.jpg" alt="Achn Lateceph5A Ed 1" style="height: 409px;">
+            </a>
+                                                                  <a href="/species/achnanthidium_laticephalum/images#image-10411" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/GSS01047_Latec2b_ed_1.jpg" alt="Gss01047  Latec2B Ed 1" style="height: 392px;">
+            </a>
+                                                                  <a href="/species/achnanthidium_laticephalum/images#image-7457" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Achn_lateceph3_ed_1.jpg" alt="Achn Lateceph3 Ed 1" style="height: 410px;">
+            </a>
+                                                                  <a href="/species/achnanthidium_laticephalum/images#image-7462" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Achn_lateceph6b_ed.jpg" alt="Achn Lateceph6B Ed" style="height: 365px;">
+            </a>
+                                                                  <a href="/species/achnanthidium_laticephalum/images#image-7455" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Achn_lateceph2a_ed_1.jpg" alt="Achn Lateceph2A Ed 1" style="height: 366px;">
+            </a>
+                                                                  <a href="/species/achnanthidium_laticephalum/images#image-10409" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/GSS01047_Latec1a_ed_1.jpg" alt="Gss01047  Latec1A Ed 1" style="height: 327px;">
+            </a>
+                    </div>
+          <div class="image-set-key">
+            <a href="/species/achnanthidium_laticephalum/images"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --> View image metadata</a>
+                      </div>
+        </div>
+      
+
+
+      
+              <div class="species-images-fragments">
+          <div class="image-set">
+                                                        <a href="/species/achnanthidium_laticephalum/images#image-18704" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/NCPA0058_03_ed.jpg" alt="Achnanthidium latecephalum SEM4">
+            </a>
+                                              <a href="/species/achnanthidium_laticephalum/images#image-18703" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/NCPA0058_02_ed.jpg" alt="Achnanthidium latecephalum SEM3">
+            </a>
+                                              <a href="/species/achnanthidium_laticephalum/images#image-18235" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/83-1_ed.jpg" alt="Achnanthidium latecephalum SEM2">
+            </a>
+                                              <a href="/species/achnanthidium_laticephalum/images#image-18226" class="">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/61-1a_ed.jpg" alt="Achnanthidium latecephalum SEM1">
+            </a>
+                    </div>
+        </div>
+      
+              <div class="species-description">
+          <h3 class="h4">Description</h3>
+          <div class="two-column">
+            <p>Valves are linear-lanceolate with broadly rostrate or subcapitate ends. The raphe valve is concave and the rapheless valve is convex.Both valves possess a linear axial area, which widens slightly in the middle portion of the valve. No central area is present on either valve. The striae are parallel or very slightly radiate throughout both valves. Striae density on both valves is 20-26 in 10 µm in the middle and 35-40 in 10 µm at the apices. The external openings of the areolae are transapically elongated, appearing as narrow slits. Each stria in the middle part of the valve is composed of 4-5 areolae. Short marginal striae are often present in the middle portion of both valves. The raphe is straight, filiform. The terminal raphe fissures are hooked towards the same side of the valve and are slightly expanded at the ends. Externally, the central raphe ends are teardrop-shaped. Internally, the central raphe ends curve to opposite sides.</p>
+          </div>
+        </div>
+      
+      </div>
+    </div>
+
+      <div id="autecology" data-magellan-target="autecology" class="section species-autecology">
+      <div class="grid-container">
+        <h2 class="section-header h3">Autecology</h2>
+
+        <div class="grid-x grid-margin-x">
+                  <div class="large-6 cell">
+            <div class="callout">
+              <div class="species-autecology-categories">
+                <ul class="inline rule">
+                                  <li>
+                    <div class="list-name">Size Range, µm3</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?sizeRange=11-100" class="tag">11-100</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Motility</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?motility=slightly-motile" class="tag">Slightly motile</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Attachment</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?attachment=prostrate" class="tag">Prostrate</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Habitat</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?habitat=benthic" class="tag">Benthic</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Colony</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?colony=solitary" class="tag">Solitary</a>
+                                        </div>
+                  </li>
+                                                                                                                  <li>
+                    <div class="list-name">Waterbody</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?waterbody=inland" class="tag">Inland</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Distribution</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?distribution=southeast" class="tag">Southeast rivers 2014</a>
+                                          <a href="https://diatoms.org/species?distribution=northeast-lake-sediments" class="tag">Northeast lake sediments</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <a href="/practitioners/how-and-where-do-diatoms-live-autecology-tags" class="autecology-key">Learn more about this <svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fas" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fas fa-angle-right"></i> --></a>
+                  </li>
+                                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-x grid-padding-x small-up-1 medium-up-2 large-up-3 xlarge-up-4">
+                        </div>
+
+      </div>
+    </div>
+
+      <div id="original-description" data-magellan-target="original-description" class="section species-original-description">
+      <div class="grid-container">
+        <h2 class="section-header h3">Original Description</h2>
+        <div class="grid-x grid-margin-x">
+                  <div class="large-6 cell">
+            <p>Valves linear-lanceolate with broadly capitate or rostrate ends, 10-18 μm long, 4.0-4.5 μm wide. Raphid valve: raphe straight and thread-like with slightly dilated central raphe endings somewhat distant from each other, and gently curved terminal fissures; axial area narrowly lanceolate, transapical striae slightly radiate, alternatively long and short in the middle, 18-20 in 10 μm, almost parallel near the ends, ca 34 in 10 μm; puncta forming striae invisible. Araphid valve: axial area linear lanceolate, transapical striae slightly radiate and occasionally having a short stria inserted in the middle, ca 22 in 10 μm, almost parallel near the ends, ca 34 in 10 μm; puncta forming the striae are invisible.</p>
+          </div>
+                  <div class="large-6 cell">
+            <ul class="species-names inline rule">
+                                      <li>
+                <div class="list-name">Author</div>
+                <div class="list-value">H.Kobayasi 1997</div>
+              </li>
+                                      <li>
+                <div class="list-name">Length Range</div>
+                <div class="list-value">10-18 µm</div>
+              </li>
+                                      <li>
+                <div class="list-name">Width</div>
+                <div class="list-value">4.0-4.5 µm</div>
+              </li>
+                                      <li>
+                <div class="list-name">Striae in 10µm</div>
+                <div class="list-value">18-20 in center raphe valve, ca 22 in center rapheless valve, ca 34 at the ends</div>
+              </li>
+                        </ul>
+          </div>
+        </div>
+
+              <div class="species-original-images">
+          <h3 class="h4">Original Images</h3>
+          <div class="masonry-css">
+                                <div class="masonry-css-item">
+              <a href="https://diatoms.org/images/15948"><img loading="lazy" src="https://assets.diatoms.org/images/species_orig_images/_max600/OrIll001_a.jpg" alt="Or Ill001 A"></a>
+            </div>
+                      <div class="masonry-css-item">
+              <a href="https://diatoms.org/images/15949"><img loading="lazy" src="https://assets.diatoms.org/images/species_orig_images/_max600/OrIll002_a.jpg" alt="Or Ill002 A"></a>
+            </div>
+                                          <div class="masonry-css-item">
+              <a href="https://diatoms.org/images/14797"><img loading="lazy" src="https://assets.diatoms.org/images/species_orig_descriptions/_max600/OrDescr001_a.jpg" alt="Or Descr001 A"></a>
+            </div>
+                    </div>
+
+                </div>
+      
+      </div>
+    </div>
+
+    
+      <div id="citations" data-magellan-target="citations" class="section species-citations">
+      <div class="grid-container">
+        <h2 class="section-header h3">Citations &amp; Links</h2>
+        <div class="grid-x grid-margin-x">
+          <div class="large-6 cell">
+            <h3 class="h4">Citations</h3>
+  <ul class="citations-list">
+        <li><div class="citation-title">
+  <a href="https://diatoms.org/citations/kobayasi_h-1997-comparative_studies_among_four_linear-lanceolate_achnanthid"><strong class="citation-title">Kobayasi, H. (1997)</strong> Comparative studies among four linear-lanceolate <em>Achnanthidium</em> species (Bacillariophyceae) with curved terminal raphe endings <em>Nova Hedwigia 65: 147-163</em> </a>
+</div>
+</li>
+      <li><div class="citation-title">
+  <a href="https://diatoms.org/citations/ponader_k_and_potapova_m-2007-diatoms_from_the_genus_achnanthidium_in_flowi"><strong class="citation-title">Ponader, K. and Potapova, M. (2007)</strong> Diatoms from the genus <em>Achnanthidium</em> in flowing waters of the Appalachian Mountains (North America): Ecology, distribution and taxonomic notes <em>Limnologica - Ecology and Management of Inland Waters 37: 227-241</em> </a>
+</div>
+<div class="citation-publication">Publication Link: <a href="https://dx.doi.org/10.1016/j.limno.2007.01.004">10.1016/j.limno.2007.01.004</a></div>
+</li>
+      <li><div class="citation-title">
+  <a href="https://diatoms.org/citations/rimet_f_tudesque_l_peeters_v_vidal_h_and_ector_l-2003-assemblages-types_de"><strong class="citation-title">Rimet, F., Tudesque, L., Peeters, V., Vidal, H. and Ector, L. (2003)</strong> Assemblages-types de diatomées benthiques des riviéres non-polluées du bassin Rhône-Méditerranée-Corse (France).  <em>Bulletin de la Société des Sciences Naturelles de l’Ouest de la France, 2éme supplément hors série, 272–287</em> </a>
+</div>
+</li>
+    </ul>
+          </div>
+          <div class="large-6 cell">
+            <h3 class="h4">Links</h3>
+            <ul class="simple">
+
+                          <li>
+                <div class="list-name">Index Nominum Algarum</div>
+                <div class="list-value">
+                                                                    <a href="http://ucjeps.berkeley.edu/cgi-bin/search_ina.pl?lookfor=Achnanthidium+latecephalum">Original</a>
+                                                  </div>
+              </li>
+            
+                        
+            
+                          <li>
+                <div class="list-name">North American Diatom Ecological Database</div>
+                <div class="list-value">NADED ID: 1032</div>
+              </li>
+            
+            
+            
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+        <div id="updates" data-magellan-target="" class="section species-update">
+      <div class="grid-container">
+        <h2 class="section-header h3">Updates</h2>
+        <div class="grid-x grid-margin-x">
+          <div class="large-6 cell">
+                                            <div class="entry-update">
+              <h3 class="h4">Oct 25, 2024 - Orthographic correction</h3>
+              <p>From August 2, 2010 until October 25, 2024, this taxon appeared as <em>Achnanthidium latecephalum </em>H. Kobayasi 1997. In order to confirm to Art. 60.10 of the International Code of Algae, Fungi, and Plants, the specific epithet was edited to "laticephalum" and now appears as <em>Achnanthidium laticephalum </em>H.Kobayasi 1997.- S. Spaulding</p>
+            </div>
+                                </div>
+        </div>
+      </div>
+    </div>
+  
+      <div id="cite" data-magellan-target="" class="section species-cite">
+      <div class="grid-container">
+        <h2 class="section-header h3">Cite This Page</h2>
+        <p>
+                          Potapova, M.          (2010).
+          Achnanthidium laticephalum.
+          In Diatoms of North America.
+          Retrieved May 26, 2025, from https://diatoms.org/species/44802/achnanthidium_laticephalum
+        </p>
+      </div>
+    </div>
+
+  </main>
+
+</section>
+
+
+
+<div class="dropdown-guide species-guide dropdown-pane right" id="species-guide" data-dropdown="" data-hover="true" data-hover-pane="true" aria-hidden="true" data-yeti-box="species-guide" data-resize="species-guide" aria-labelledby="v6v0zd-dd-anchor" data-e="kwt08q-e">
+  <div class="grid-x grid-margin-x">
+    <div class="medium-6 cell">
+      <div class="guide-image">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_guide_images/_square600/A_latecephalum_guide_copy.jpg" alt="A Latecephalum Guide Copy">
+              </div>
+    </div>
+    <div class="medium-6 cell">
+      <div class="guide-content">
+        <h3 class="guide-name">Achnanthidium laticephalum  </h3>
+        <p class="guide-author">H.Kobayasi 1997</p>
+        <ol class="simple guide-points">
+                                              <li>Valve ends broadly rostrate or subcapitate</li>
+                                                <li>Central area absent on both valves</li>
+                                                <li>Striae parallel or slightly radiate throughout both valves</li>
+                              </ol>
+
+      </div>
+    </div>
+  </div>
+  <div class="guide-description">
+    Valves linear-lanceolate with broadly rostrate or subcapitate ends. The axial area is narrow and only slightly widened at the valve center. A central area is absent. The striae are parallel or slightly radiate throughout both valves, 20-26 in 10 μm in the center valve.
+  </div>
+</div>
+
+
+	<footer class="site-footer">
+		<div class="grid-container">
+			<div class="site-footer-main grid-x grid-margin-x">
+				<div class="medium-4 cell">
+					<h4 class="site-name h4">Diatoms of North America</h4>
+					<p>The source for diatom identification and ecology</p>
+											<div class="resource-citation"><p>Cite as: Spaulding et al. 2021. Diatoms.org: supporting taxonomists, connecting communities. Diatom Research 36(4): 291-304. <a href="https://doi.org/10.1080/0269249X.2021.2006790">https://doi.org/10.1080/0269249X.2021.2006790</a></p></div>
+									</div>
+				<div class="medium-3 large-2 medium-offset-1 cell">
+					<ul class="menu vertical">
+						<li><a href="https://diatoms.org/">Home</a></li>
+						<li><a href="https://diatoms.org/what-are-diatoms">What are Diatoms?</a></li>
+						<li><a href="https://diatoms.org/about">About Us</a></li>
+						<li><a href="https://diatoms.org/contact">Contact Us</a></li>
+					</ul>
+				</div>
+				<div class="medium-3 large-2 cell">
+					<ul class="menu vertical">
+						<li><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+						<li><a href="https://diatoms.org/morphology">Morphology</a></li>
+						<li><a href="https://diatoms.org/genera">Genera</a></li>
+						<li><a href="https://diatoms.org/species">Species</a></li>
+						<li><a href="https://diatoms.org/glossary">Glossary</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="site-legal grid-x grid-padding-x">
+				<div class="medium-12 cell">
+					<div class="privacy"><a href="https://diatoms.org/privacy-policy">Privacy Policy</a></div>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
+
+
+
+
+<script src="/js/vendor/what-input/dist/what-input.min.js"></script>
+<script src="/js/vendor/foundation-sites/dist/js/foundation.min.js"></script>
+<script src="/js/vendor/rangeSlider/ion.rangeSlider.js"></script>
+<script src="/js/vendor/slick-carousel/slick/slick.min.js"></script>
+<script src="/js/app.js?2.0.02"></script><div class="reveal-overlay"><div class="reveal medium" id="emapKeyModal" data-reveal="" role="dialog" aria-hidden="true" data-yeti-box="emapKeyModal" data-resize="emapKeyModal" data-e="nrqsyh-e">
+  <h2 class="h3">Responses</h2>
+  <p>The 15 response plots show an environmental variable (x axis) against the relative abundance (y axis) of <em>Achnanthidium laticephalum  </em> from all the stream reaches where it was present. Note that the relative abundance scale is the same on each plot. Explanation of each environmental variable and units are as follows:</p>
+  <p>
+    <strong>ELEVATION</strong> = stream reach elevation (meters)<br>
+    <strong>STRAHLER</strong> = distribution plot of the Strahler Stream Order <br>
+    <strong>SLOPE</strong> = stream reach gradient (degrees)<br>
+    <strong>W1_HALL</strong> = an index that is a measure of streamside (riparian) human activity that ranges from 0 - 10, with a value of 0 indicating of minimal disturbance to a value of 10 indicating severe disturbance.<br>
+    <strong>PHSTVL</strong> = pH measured in a sealed syringe sample (pH units)<br>
+    <strong>log_COND</strong> = log concentration of specific conductivity (µS/cm)<br>
+    <strong>log_PTL</strong> = log concentration of total phosphorus (µg/L)<br>
+    <strong>log_NO3</strong> = log concentration of nitrate (µeq/L)<br>
+    <strong>log_DOC</strong> = log concentration of dissolved organic carbon (mg/L)<br>
+    <strong>log_SIO2</strong> = log concentration of silicon (mg/L)<br>
+    <strong>log_NA</strong> = log concentration of sodium (µeq/L)<br>
+    <strong>log_HCO3</strong> = log concentration of the bicarbonate ion (µeq/L)<br>
+    <strong>EMBED</strong> = percent of the stream substrate that is embedded by sand and fine sediment<br>
+    <strong>log_TURBIDITY</strong> = log of turbidity, a measure of cloudiness of water, in nephelometric turbidity units (NTU).<br>
+    <strong>DISTOT</strong> = an index of total human disturbance in the watershed that ranges from 1 - 100, with a value of 0 indicating of minimal disturbance to a value of 100 indicating severe disturbance.<br>
+  </p>
+  <button class="close-button" data-close="" aria-label="Close modal" type="button">
+    <span aria-hidden="true">×</span>
+  </button>
+</div></div>
+<script src="/js/dynamic.js??2.0.02"></script>
+<script src="//unpkg.com/alpinejs" defer=""></script>
+
+
+
+<script>$(document).ready(function(){
+  let revealOverlay = document.querySelector('.reveal-overlay');
+  var globalModal = document.querySelector('#globalModal');
+  
+  if (globalModal) {
+    if (window.sessionStorage.getItem('close-banner') === '1') {
+      $('#globalModal').foundation('close');
+    } else {
+      $('#globalModal').foundation('open');
+      
+      globalModal.addEventListener('click', function (e) {
+        window.sessionStorage.setItem('close-banner', '1');
+      });
+    }
+  }
+});</script>
+
+<div></div>

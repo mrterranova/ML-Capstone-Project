@@ -1,0 +1,441 @@
+
+    <div class="species-images-info">
+
+      <div class="grid-container">
+                <div class="image-set-key">
+          <span class="type-image-key">Type Specimen</span>
+        </div>
+        
+        <div class="image-set">
+
+                            <div id="image-6995" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/6995">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/2Control2_StrainIII_1_Cropped.jpg" alt="Tabellaria flocculosa LM7">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">2 Control 7-16-2009</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Alaska Peatland Experiment (APEX) Control plot</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">64.92, -147.87</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Strain III</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Dawn DeColibus</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-6959" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/6959">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/21Raised2_Girdleband_Cropped_1.jpg" alt="Tabellaria flocculosa LM2">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">21 Raised 5-26-2009</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Alaska Peatland Experiment (APEX) Raised Plot</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">64.92, -147.87</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Strain III, girdle band with septum</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Dawn DeColibus</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-6996" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/6996">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/2Control2_StrainIII_Cropped.jpg" alt="Tabellaria flocculosa LM5">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">2 Control 7-16-2009</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Alaska Peatland Experiment (APEX) Control plot</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">64.92, -147.87</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Strain III</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Dawn DeColibus</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-6961" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/6961">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/21Raised2_StrainIII_Cropped_1.jpg" alt="Tabellaria flocculosa LM4">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">21 Raised 5-26-2009</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Alaska Peatland Experiment (APEX) Raised Plot</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">64.92, -147.87</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Strain III</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Dawn DeColibus</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-10729" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/10729">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/KAN2_StrainIV_Girdle_Cropped.jpg" alt="Kan2  Strain Iv  Girdle  Cropped">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ILL 2013-088</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">KAN Rep 2 2011</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Kanuti River</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">66.29697, -151.10994</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Strain IV, girdle band with septum</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Dawn DeColibus</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-10728" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/10728">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/KAN2_StrainIV_Cropped.jpg" alt="Kan2  Strain Iv  Cropped">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ILL 2013-088</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">KAN Rep 2 2011</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Kanuti River</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">66.29697, -151.10994</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Strain IV</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Dawn DeColibus</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-6962" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/6962">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/21Raised2_StrainIV_Cropped.jpg" alt="Tabellaria flocculosa LM6">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">21 Raised 5-26-2009</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Alaska Peatland Experiment (APEX) Raised Plot</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">64.92, -147.87</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Strain IV</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Dawn DeColibus</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        
+        
+                            <div id="image-19166" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/19166">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/test_mix_053.jpg" alt="Tabellaria flocculosa SEM2">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">INSTAAR Diatom Collection 14371</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Cole Creek, CA</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">internal view of central valve</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Note rimoportula</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 5 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-19167" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/19167">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/test_mix_054.jpg" alt="Tabellaria flocculosa SEM3">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">INSTAAR Diatom Collection 14371</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Cole Creek, CA</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">internal view of one valve and separate septum</div>
+                </li>
+                                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-19168" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/19168">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/test_mix_068.jpg" alt="Tabellaria flocculosa SEM4">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">INSTAAR Diatom Collection 14371</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Cole Creek, CA</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">external view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Valve underneath shows an internal view</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-19164" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/19164">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/test_mix_040.jpg" alt="Tabellaria flocculosa SEM1">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">INSTAAR Diatom Collection 1437114371</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Cole Creek, CA</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">external view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Note presence of apical porefield, spines and rimoportula</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+        
+        </div>
+
+      </div>
+
+    </div>
+  

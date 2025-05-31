@@ -1,0 +1,384 @@
+
+    <div class="species-images-info">
+
+      <div class="grid-container">
+                <div class="image-set-key">
+          <span class="type-image-key">Type Specimen</span>
+        </div>
+        
+        <div class="image-set">
+
+                            <div id="image-7655" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7655">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/CANA_LM_78270-029_NA.jpg" alt="Brachysira brebissonii LM7">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Egg Harbour Lake, NJ</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">39.5581, -74.6082</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">brightfield</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7651" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7651">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/CANA_LM_78270-013_NA.jpg" alt="Brachysira brebissonii LM6">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Egg Harbour Lake, NJ</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">39.5581, -74.6082</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">brightfield</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7654" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7654">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/CANA_LM_78270-025_NA.jpg" alt="Brachysira brebissonii LM5">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Egg Harbour Lake, NJ</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">39.5581, -74.6082</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">brightfield</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7647" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7647">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/CANA_LM_78270-006_NA.jpg" alt="Brachysira brebissonii LM4">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Egg Harbour Lake, NJ</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">39.5581, -74.6082</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">brightfield</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7648" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7648">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/CANA_LM_78270-009_NA.jpg" alt="Brachysira brebissonii LM3">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Egg Harbour Lake, NJ</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">39.5581, -74.6082</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">brightfield</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7645" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7645">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/CANA_LM_78270-003_NA.jpg" alt="Brachysira brebissonii LM2">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Egg Harbour Lake, NJ</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">39.5581, -74.6082</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">brightfield</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7646" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7646">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/CANA_LM_78270-005_NA.jpg" alt="Brachysira brebissonii LM1">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">CANA-78270</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Egg Harbour Lake, NJ</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">39.5581, -74.6082</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">brightfield</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        
+        
+                            <div id="image-18300" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/18300">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/CANA-SEM-78274-31NA_copy.jpg" alt="Brachysira brebissonii SEM3">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">CANA-78274</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Harrisville Lake, NJ</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">39.6648, -74.5242</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">apex, external view</div>
+                </li>
+                                                                                <li>
+                  <div class="list-name">Scalebar = 2 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-18299" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/18299">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/CANA-SEM-78274-29NA_copy.jpg" alt="Brachysira brebissonii SEM2">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">CANA-78274</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Harrisville Lake, NJ</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">39.6648, -74.5242</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">central area, external view</div>
+                </li>
+                                                                                <li>
+                  <div class="list-name">Scalebar = 2 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-18294" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/18294">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/CANA-SEM-78274-01NA_copy.jpg" alt="Brachysira brebissonii SEM1">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">CANA-78274</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Harrisville Lake, NJ</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">39.6648, -74.5242</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">whole valve external</div>
+                </li>
+                                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+        
+        </div>
+
+      </div>
+
+    </div>
+  

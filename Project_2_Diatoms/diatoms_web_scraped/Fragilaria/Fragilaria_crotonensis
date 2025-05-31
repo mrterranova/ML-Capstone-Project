@@ -1,0 +1,613 @@
+
+
+<div class="off-canvas position-right is-transition-overlap is-closed" id="offCanvas" data-off-canvas="" data-transition="overlap" aria-hidden="true" data-e="xjg33b-e">
+	<ul class="menu vertical accordion-menu" data-accordion-menu="" role="tree" aria-multiselectable="true" data-e="5ireix-e">
+		<li role="treeitem"><a href="https://diatoms.org/">Home</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+		<li role="treeitem" class="is-accordion-submenu-parent" aria-controls="udmu60-acc-menu" aria-expanded="false" id="egqji9-acc-menu-link">
+			<a href="https://diatoms.org/morphology">Morphology</a>
+			<ul class="menu vertical submenu is-accordion-submenu" data-submenu="" role="group" style="display: none;" aria-labelledby="egqji9-acc-menu-link" aria-hidden="true" id="udmu60-acc-menu">
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology">All Morphological Groups</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/centric">Centric</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/araphid">Araphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/eunotioid">Eunotioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/symmetric_biraphid">Symmetric Biraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/monoraphid">Monoraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/asymmetric_biraphid">Asymmetric Biraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/epithemioid">Epithemioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/nitzschioid">Nitzschioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/surirelloid">Surirelloid</a></li>
+							</ul>
+		</li>
+		<li role="treeitem"><a href="https://diatoms.org/genera">Genera</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/species">Species</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/glossary">Glossary</a></li>
+		<li role="treeitem" class="is-accordion-submenu-parent" aria-controls="i06s5u-acc-menu" aria-expanded="false" id="juekf7-acc-menu-link">
+			<a href="https://diatoms.org/about">About Us</a>
+			<ul class="menu vertical submenu is-accordion-submenu" data-submenu="" role="group" style="display: none;" aria-labelledby="juekf7-acc-menu-link" aria-hidden="true" id="i06s5u-acc-menu">
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/about">About</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/news">News</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/projects">Projects</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/review-board">Review Board</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/taxon-contributors">Taxon Contributors</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/contact">Contact Us</a></li>
+			</ul>
+		</li>
+		<li role="treeitem"><a href="https://diatoms.org/what-are-diatoms">What are diatoms?</a></li>
+	</ul>
+	<div class="search-form">
+		<form class="taxa-search-form" action="https://diatoms.org/search/results">
+			<label class="show-for-sr">Search</label>
+			<input type="search" class="search-input" id="searchInputOffcanvas" name="q" value="" placeholder="Search">
+			<button type="submit" class="button"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></button>
+		</form>
+	</div>
+
+	<button class="close-button" aria-label="Close menu" type="button" data-close="">
+		<span aria-hidden="true">×</span>
+	</button>
+</div><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+
+<div class="off-canvas-content" data-off-canvas-content="">
+
+	
+	<header class="site-header">
+		<div class="title-bar hide-for-large">
+			<div class="title-bar-title"><a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America">Diatoms of North America</a></div>
+			<button class="menu-icon" type="button" data-open="offCanvas" aria-expanded="false" aria-controls="offCanvas"></button>
+		</div>
+		<div class="grid-container show-for-large">
+
+			<div id="main-nav">
+				<div class="grid-x">
+					<div class="cell shrink">
+						<div class="site-name">
+							<a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America"></a>
+						</div>
+					</div>
+					<div class="cell auto">
+						<ul class="dropdown menu align-center" data-dropdown-menu="" role="menubar" data-e="3buj2i-e">
+							<li role="menuitem"><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+							<li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Morphology">
+								<a href="https://diatoms.org/morphology">Morphology</a>
+								<ul class="menu vertical submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/centric">Centric</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/araphid">Araphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/eunotioid">Eunotioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/symmetric_biraphid">Symmetric Biraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/monoraphid">Monoraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/asymmetric_biraphid">Asymmetric Biraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/epithemioid">Epithemioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/nitzschioid">Nitzschioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/surirelloid">Surirelloid</a></li>
+																	</ul>
+							</li>
+							<li role="menuitem"><a href="https://diatoms.org/genera">Genera</a></li>
+							<li role="menuitem"><a href="https://diatoms.org/species">Species</a></li>
+							<li role="menuitem"><a href="https://diatoms.org/glossary">Glossary</a></li>
+							<li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="About Us">
+								<a href="https://diatoms.org/about">About Us</a>
+								<ul class="menu vertical submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/news">News</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/projects">Projects</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/review-board">Review Board</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/taxon-contributors">Taxon Contributors</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/contact">Contact Us</a></li>
+								</ul>
+							</li>
+							<li role="menuitem"><a href="https://diatoms.org/what-are-diatoms">What are diatoms?</a></li>
+						</ul>
+					</div>
+					<div class="cell shrink">
+						<div class="nav-search">
+							<button type="button" class="button search-toggle" data-toggle="searchPanel" aria-controls="searchPanel"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></button>
+						</div>
+					</div>
+				</div>
+				<div class="search-form-panel grid-x" id="searchPanel" data-toggler="" data-animate="fade-in fade-out" style="display: none;" aria-expanded="false" data-e="hy3jbl-e">
+					<div class="cell shrink">
+						<div class="site-name">
+							<a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America"></a>
+						</div>
+					</div>
+					<div class="cell auto">
+						<form class="taxa-search-form" action="https://diatoms.org/search/results">
+							<label><span class="show-for-sr">Search taxa, citations, glossary, contributors, and images</span><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></label>
+							<input type="search" class="search-input" id="searchInput" name="q" value="" placeholder="Search taxa, citations, glossary, contributors, and images">
+							<button type="submit" class="button"><span class="show-for-sr">Submit</span></button>
+						</form>
+					</div>
+					<div class="cell shrink">
+						<div class="nav-search">
+							<button type="button" class="button search-toggle" data-toggle="searchPanel" aria-controls="searchPanel"><span class="show-for-sr">Close search</span><svg class="svg-inline--fa fa-times fa-w-12" aria-hidden="true" data-prefix="fas" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M323.1 441l53.9-53.9c9.4-9.4 9.4-24.5 0-33.9L279.8 256l97.2-97.2c9.4-9.4 9.4-24.5 0-33.9L323.1 71c-9.4-9.4-24.5-9.4-33.9 0L192 168.2 94.8 71c-9.4-9.4-24.5-9.4-33.9 0L7 124.9c-9.4 9.4-9.4 24.5 0 33.9l97.2 97.2L7 353.2c-9.4 9.4-9.4 24.5 0 33.9L60.9 441c9.4 9.4 24.5 9.4 33.9 0l97.2-97.2 97.2 97.2c9.3 9.3 24.5 9.3 33.9 0z"></path></svg><!-- <i class="fas fa-times" aria-hidden="true"></i> --></button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<section class="site-main">
+
+  <header class="page-header">
+    <div class="grid-container">
+      <div class="back-link"><a href="https://diatoms.org/species/46980/fragilaria_crotonensis"><svg class="svg-inline--fa fa-angle-left fa-w-8" aria-hidden="true" data-prefix="fas" data-icon="angle-left" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M31.7 239l136-136c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9L127.9 256l96.4 96.4c9.4 9.4 9.4 24.6 0 33.9L201.7 409c-9.4 9.4-24.6 9.4-33.9 0l-136-136c-9.5-9.4-9.5-24.6-.1-34z"></path></svg><!-- <i class="fas fa-angle-left" aria-hidden="true"></i> --> Return to overview</a></div>
+      <h1 class="page-title">
+        Images of <em><a class="name-genera" href="https://diatoms.org/genera/fragilaria">Fragilaria</a> <span class="name-species">crotonensis  </span></em>
+      </h1>
+      <p class="species-author">Kitton 1869</p>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="species-images-info">
+
+      <div class="grid-container">
+                <div class="image-set-key">
+          <span class="type-image-key">Type Specimen</span>
+        </div>
+        
+        <div class="image-set">
+
+                            <div id="image-7354" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7354">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/ANSP_GC112455-5.jpg" alt="Ansp  Gc112455 5">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC112455</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">NLA06608-421</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Loughberry Lake, Saratoga NY</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">43.09519, -73.76734</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">valve view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image: B. Rosen</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7355" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7355">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/ANSP_GC112455-6.jpg" alt="Ansp  Gc112455 6">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC112455</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">NLA06608-421</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Loughberry Lake, Saratoga NY</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">43.09519, -73.76734</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">colony in girdle view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image: B. Rosen</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7351" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7351">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/ANSP_GC112455-1.jpg" alt="Ansp  Gc112455 1">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC112455</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">NLA06608-421</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Loughberry Lake, Saratoga NY</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">43.09519, -73.76734</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">valve view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image: B. Rosen</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7352" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7352">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/ANSP_GC112455-11.jpg" alt="Ansp  Gc112455 11">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC112455</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">NLA06608-421</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Loughberry Lake, Saratoga NY</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">43.09519, -73.76734</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">valve view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image: B. Rosen</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-7353" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/7353">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/ANSP_GC112455-3.jpg" alt="Ansp  Gc112455 3">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">ANSP GC112455</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">NLA06608-421</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Loughberry Lake, Saratoga NY</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">43.09519, -73.76734</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">colony in girdle view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image: B. Rosen</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        
+                            <div id="image-18082" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/18082">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images/_max600/NorthHillsPondGG22_10um.jpg" alt="North Hills Pond Gg22 10Um">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">ANSP GG 2002</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">North Hills, Pond</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">colony in girdle view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image: E. Morales</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+        
+                            <div id="image-18828" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/18828">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/NorthHillsPondGG17_1um.jpg" alt="Fragilaria crotonensis SEM4">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">ANSP GG 2002</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">North Hills, Pond</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">internal view, apex</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Note rimoportula. Image: E. Morales</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 1 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-18827" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/18827">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/NorthHillsPondGG16_1um.jpg" alt="Fragilaria crotonensis SEM3">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">ANSP GG 2002</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">North Hills, Pond</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">external view, apex</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Note rimoportula. Image: E. Morales</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 1 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-18167" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/18167">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/14258_bse_028.jpg" alt="Fragilaria crotonensis SEM2">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">ANSP GC112455</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Loughberry Lake, Saratoga NY</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">43.09519, -73.76734</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">external view, apices</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image: S. Spaulding</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 5 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-18166" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/18166">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/14258_bse_026.jpg" alt="Fragilaria crotonensis SEM1">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">ANSP GC112455</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Loughberry Lake, Saratoga NY</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">43.09519, -73.76734</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">external view, mid valve</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image: S. Spaulding</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+        
+        </div>
+
+      </div>
+
+    </div>
+  </main>
+
+</section>
+
+
+	<footer class="site-footer">
+		<div class="grid-container">
+			<div class="site-footer-main grid-x grid-margin-x">
+				<div class="medium-4 cell">
+					<h4 class="site-name h4">Diatoms of North America</h4>
+					<p>The source for diatom identification and ecology</p>
+											<div class="resource-citation"><p>Cite as: Spaulding et al. 2021. Diatoms.org: supporting taxonomists, connecting communities. Diatom Research 36(4): 291-304. <a href="https://doi.org/10.1080/0269249X.2021.2006790">https://doi.org/10.1080/0269249X.2021.2006790</a></p></div>
+									</div>
+				<div class="medium-3 large-2 medium-offset-1 cell">
+					<ul class="menu vertical">
+						<li><a href="https://diatoms.org/">Home</a></li>
+						<li><a href="https://diatoms.org/what-are-diatoms">What are Diatoms?</a></li>
+						<li><a href="https://diatoms.org/about">About Us</a></li>
+						<li><a href="https://diatoms.org/contact">Contact Us</a></li>
+					</ul>
+				</div>
+				<div class="medium-3 large-2 cell">
+					<ul class="menu vertical">
+						<li><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+						<li><a href="https://diatoms.org/morphology">Morphology</a></li>
+						<li><a href="https://diatoms.org/genera">Genera</a></li>
+						<li><a href="https://diatoms.org/species">Species</a></li>
+						<li><a href="https://diatoms.org/glossary">Glossary</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="site-legal grid-x grid-padding-x">
+				<div class="medium-12 cell">
+					<div class="privacy"><a href="https://diatoms.org/privacy-policy">Privacy Policy</a></div>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
+
+
+
+
+<script src="/js/vendor/what-input/dist/what-input.min.js"></script>
+<script src="/js/vendor/foundation-sites/dist/js/foundation.min.js"></script>
+<script src="/js/vendor/rangeSlider/ion.rangeSlider.js"></script>
+<script src="/js/vendor/slick-carousel/slick/slick.min.js"></script>
+<script src="/js/app.js?2.0.02"></script>
+<script src="/js/dynamic.js??2.0.02"></script>
+<script src="//unpkg.com/alpinejs" defer=""></script>
+
+
+
+<script>$(document).ready(function(){
+  let revealOverlay = document.querySelector('.reveal-overlay');
+  var globalModal = document.querySelector('#globalModal');
+  
+  if (globalModal) {
+    if (window.sessionStorage.getItem('close-banner') === '1') {
+      $('#globalModal').foundation('close');
+    } else {
+      $('#globalModal').foundation('open');
+      
+      globalModal.addEventListener('click', function (e) {
+        window.sessionStorage.setItem('close-banner', '1');
+      });
+    }
+  }
+});</script>
+
+<div></div>

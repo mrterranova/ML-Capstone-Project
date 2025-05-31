@@ -1,0 +1,498 @@
+
+    <div class="species-images-info">
+
+      <div class="grid-container">
+                <div class="image-set-key">
+          <span class="type-image-key">Type Specimen</span>
+        </div>
+        
+        <div class="image-set">
+
+                            <div id="image-282952" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/282952">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Brachysira-confusa1_ILL_L1435.jpg.jpg" alt="Brachysira confusa LM1">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17625</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">LA-02</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Brainard Lake Marsh, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.086690, -105.599886</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Valve View</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">J.J. Jackson</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-282953" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/282953">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Brachysira-confusa2_ILL_L1435.jpg.jpg" alt="Brachysira confusa LM2">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17625</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">LA-02</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Brainard Lake Marsh, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.086690, -105.599886</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Valve View</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">J.J. Jackson</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-282954" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/282954">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Brachysira-confusa3_ILL_L1435.jpg.jpg" alt="Brachysira confusa LM3">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17625</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">LA-02</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Brainard Lake marsh, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.086690, -105.599886</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Valve view with raised marginal crest discernable on the right side of the valve</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">J.J. Jackson</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-296303" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/296303">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Brachysira_confusa_girdle_view_LA-32-1_2023-07-12-133157_fmxh.jpg" alt="Brachysira confusa LM7">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17637</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">LA-32</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Wetland below Upper Coney Lake, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.111061, -105.624230</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Girdle view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Lane Allen</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-282955" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/282955">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Brachysira-confusa4_ILL_L1435.jpg.jpg" alt="Brachysira confusa LM4">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17625</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">LA-02</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Brainard Lake marsh, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.086690, -105.599886</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Valve View</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">J.J. Jackson</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-282956" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/282956">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Brachysira-confusa5_ILL_L1435.jpg.jpg" alt="Brachysira confusa LM5">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17625</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">LA-02</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Brainard Lake marsh, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.086690, -105.599886</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Valve View</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">J.J. Jackson</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+                            <div id="image-282957" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/282957">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/_max600/Brachysira-confusa6_ILL_L1435.jpg.jpg" alt="Brachysira confusa LM6">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Slide Number</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17625</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">LA-02</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Site Name</div>
+                  <div class="list-value">Brainard Lake marsh, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.086690, -105.599886</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Valve View</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">J.J. Jackson</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        
+        
+                            <div id="image-296319" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/296319">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/Brachysira_confusa_internal_view_10µm.jpg" alt="Brachysira confusa SEM5">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17625</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Brainard Lake marsh, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.086690, -105.599886</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Internal View</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Lane Allen</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-296318" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/296318">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/Brachysira_confusa_external_view_10µm.jpg" alt="Brachysira confusa SEM4">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17625</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Brainard Lake marsh, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.086690, -105.599886</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">External View</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Lane Allen</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-296301" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/296301">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/Brachysira_confusa_girdle_view_LA-32_10µm.jpg" alt="Brachysira confusa SEM3">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17637</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Wetland below Upper Coney Lake, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.111061, -105.624230</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Girdle view</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Lane Allen</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-296300" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/296300">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/Brachysira_confusa_external_LA-32_2_10µm.jpg" alt="Brachysira confusa SEM2">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17637</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Wetland below Upper Coney Lake, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.111061, -105.624230</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">Image by Lane Allen</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">External view</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+                            <div id="image-296299" class="grid-x grid-margin-x">
+            <div class="medium-4 cell">
+              <div class="taxa-image species-image ">
+                <a href="https://diatoms.org/images/296299">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_sem_images_fragments/_max600/Brachysia-confusa_external_LA-32_10µm_SEM1_Acessionnumber.jpg" alt="Brachysira confusa SEM1">
+                  <button class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></button>
+                </a>
+              </div>
+            </div>
+            <div class="medium-8 cell">
+              <ul class="species-image-metadata inline rule">
+                                <li>
+                  <div class="list-name">Site ID</div>
+                  <div class="list-value">INSTAAR Diatom Collection 17637</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Name</div>
+                  <div class="list-value">Wetland below Upper Coney Lake, Colorado</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Coordinates</div>
+                  <div class="list-value">40.111061, -105.624230</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Caption</div>
+                  <div class="list-value">External View</div>
+                </li>
+                                                <li>
+                  <div class="list-name">Notes</div>
+                  <div class="list-value">Image by Lane Allen</div>
+                </li>
+                                                                <li>
+                  <div class="list-name">Scalebar = 10 µm</div>
+                </li>
+                              </ul>
+            </div>
+          </div>
+        
+        </div>
+
+      </div>
+
+    </div>
+  

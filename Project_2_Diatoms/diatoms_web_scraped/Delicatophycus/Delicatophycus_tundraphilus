@@ -1,0 +1,605 @@
+
+
+<div class="off-canvas position-right is-transition-overlap is-closed" id="offCanvas" data-off-canvas="" data-transition="overlap" aria-hidden="true" data-e="6fkjj8-e">
+	<ul class="menu vertical accordion-menu" data-accordion-menu="" role="tree" aria-multiselectable="true" data-e="eeo50t-e">
+		<li role="treeitem"><a href="https://diatoms.org/">Home</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+		<li role="treeitem" class="is-accordion-submenu-parent" aria-controls="x98obu-acc-menu" aria-expanded="false" id="bpdqq0-acc-menu-link">
+			<a href="https://diatoms.org/morphology">Morphology</a>
+			<ul class="menu vertical submenu is-accordion-submenu" data-submenu="" role="group" style="display: none;" aria-labelledby="bpdqq0-acc-menu-link" aria-hidden="true" id="x98obu-acc-menu">
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology">All Morphological Groups</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/centric">Centric</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/araphid">Araphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/eunotioid">Eunotioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/symmetric_biraphid">Symmetric Biraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/monoraphid">Monoraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/asymmetric_biraphid">Asymmetric Biraphid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/epithemioid">Epithemioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/nitzschioid">Nitzschioid</a></li>
+									<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/morphology/surirelloid">Surirelloid</a></li>
+							</ul>
+		</li>
+		<li role="treeitem"><a href="https://diatoms.org/genera">Genera</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/species">Species</a></li>
+		<li role="treeitem"><a href="https://diatoms.org/glossary">Glossary</a></li>
+		<li role="treeitem" class="is-accordion-submenu-parent" aria-controls="daaaxw-acc-menu" aria-expanded="false" id="qad5xe-acc-menu-link">
+			<a href="https://diatoms.org/about">About Us</a>
+			<ul class="menu vertical submenu is-accordion-submenu" data-submenu="" role="group" style="display: none;" aria-labelledby="qad5xe-acc-menu-link" aria-hidden="true" id="daaaxw-acc-menu">
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/about">About</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/news">News</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/projects">Projects</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/review-board">Review Board</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/taxon-contributors">Taxon Contributors</a></li>
+				<li role="treeitem" class="is-submenu-item is-accordion-submenu-item"><a href="https://diatoms.org/contact">Contact Us</a></li>
+			</ul>
+		</li>
+		<li role="treeitem"><a href="https://diatoms.org/what-are-diatoms">What are diatoms?</a></li>
+	</ul>
+	<div class="search-form">
+		<form class="taxa-search-form" action="https://diatoms.org/search/results">
+			<label class="show-for-sr">Search</label>
+			<input type="search" class="search-input" id="searchInputOffcanvas" name="q" value="" placeholder="Search">
+			<button type="submit" class="button"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></button>
+		</form>
+	</div>
+
+	<button class="close-button" aria-label="Close menu" type="button" data-close="">
+		<span aria-hidden="true">×</span>
+	</button>
+</div><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+
+<div class="off-canvas-content" data-off-canvas-content="">
+
+	
+	<header class="site-header">
+		<div class="title-bar hide-for-large">
+			<div class="title-bar-title"><a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America">Diatoms of North America</a></div>
+			<button class="menu-icon" type="button" data-open="offCanvas" aria-expanded="false" aria-controls="offCanvas"></button>
+		</div>
+		<div class="grid-container show-for-large">
+
+			<div id="main-nav">
+				<div class="grid-x">
+					<div class="cell shrink">
+						<div class="site-name">
+							<a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America"></a>
+						</div>
+					</div>
+					<div class="cell auto">
+						<ul class="dropdown menu align-center" data-dropdown-menu="" role="menubar" data-e="qe0722-e">
+							<li role="menuitem"><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+							<li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Morphology">
+								<a href="https://diatoms.org/morphology">Morphology</a>
+								<ul class="menu vertical submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/centric">Centric</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/araphid">Araphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/eunotioid">Eunotioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/symmetric_biraphid">Symmetric Biraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/monoraphid">Monoraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/asymmetric_biraphid">Asymmetric Biraphid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/epithemioid">Epithemioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/nitzschioid">Nitzschioid</a></li>
+																			<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/morphology/surirelloid">Surirelloid</a></li>
+																	</ul>
+							</li>
+							<li role="menuitem"><a href="https://diatoms.org/genera">Genera</a></li>
+							<li role="menuitem"><a href="https://diatoms.org/species">Species</a></li>
+							<li role="menuitem"><a href="https://diatoms.org/glossary">Glossary</a></li>
+							<li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="About Us">
+								<a href="https://diatoms.org/about">About Us</a>
+								<ul class="menu vertical submenu is-dropdown-submenu first-sub" data-submenu="" role="menu">
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/news">News</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/projects">Projects</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/review-board">Review Board</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/taxon-contributors">Taxon Contributors</a></li>
+									<li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://diatoms.org/contact">Contact Us</a></li>
+								</ul>
+							</li>
+							<li role="menuitem"><a href="https://diatoms.org/what-are-diatoms">What are diatoms?</a></li>
+						</ul>
+					</div>
+					<div class="cell shrink">
+						<div class="nav-search">
+							<button type="button" class="button search-toggle" data-toggle="searchPanel" aria-controls="searchPanel"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></button>
+						</div>
+					</div>
+				</div>
+				<div class="search-form-panel grid-x" id="searchPanel" data-toggler="" data-animate="fade-in fade-out" style="display: none;" aria-expanded="false" data-e="3iu0jp-e">
+					<div class="cell shrink">
+						<div class="site-name">
+							<a href="https://diatoms.org/"><img loading="lazy" src="https://diatoms.org/images/site/diatoms-logo.svg" width="75" height="75" alt="Diatoms of North America"></a>
+						</div>
+					</div>
+					<div class="cell auto">
+						<form class="taxa-search-form" action="https://diatoms.org/search/results">
+							<label><span class="show-for-sr">Search taxa, citations, glossary, contributors, and images</span><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --></label>
+							<input type="search" class="search-input" id="searchInput" name="q" value="" placeholder="Search taxa, citations, glossary, contributors, and images">
+							<button type="submit" class="button"><span class="show-for-sr">Submit</span></button>
+						</form>
+					</div>
+					<div class="cell shrink">
+						<div class="nav-search">
+							<button type="button" class="button search-toggle" data-toggle="searchPanel" aria-controls="searchPanel"><span class="show-for-sr">Close search</span><svg class="svg-inline--fa fa-times fa-w-12" aria-hidden="true" data-prefix="fas" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M323.1 441l53.9-53.9c9.4-9.4 9.4-24.5 0-33.9L279.8 256l97.2-97.2c9.4-9.4 9.4-24.5 0-33.9L323.1 71c-9.4-9.4-24.5-9.4-33.9 0L192 168.2 94.8 71c-9.4-9.4-24.5-9.4-33.9 0L7 124.9c-9.4 9.4-9.4 24.5 0 33.9l97.2 97.2L7 353.2c-9.4 9.4-9.4 24.5 0 33.9L60.9 441c9.4 9.4 24.5 9.4 33.9 0l97.2-97.2 97.2 97.2c9.3 9.3 24.5 9.3 33.9 0z"></path></svg><!-- <i class="fas fa-times" aria-hidden="true"></i> --></button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<section class="site-main">
+
+  <header class="page-header">
+    <div class="grid-container">
+      <h1 class="page-title">
+        <a class="name-genera" href="https://diatoms.org/genera/delicatophycus">Delicatophycus</a> <span class="name-species">tundraphilus  </span>
+      </h1>
+      <p class="species-author">(Bahls) Edlund 2024</p>
+    </div>
+  </header>
+
+  <main>
+
+    <div class="species-overview section">
+      <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+          <div class="medium-6 large-4 xlarge-3 cell">
+            <div class="taxa-image guide-image" data-toggle="species-guide" aria-controls="species-guide" data-is-focus="false" data-yeti-box="species-guide" aria-haspopup="true" aria-expanded="false">
+              <a href="/species/delicatophycus-tundraphilus/guide">
+                              <img loading="lazy" src="https://assets.diatoms.org/images/species_guide_images/_square600/Cymbopleura_tundraphila_guide.jpg" alt="Cymbopleura Tundraphila Guide">
+                              <span class="button button-view"><svg class="svg-inline--fa fa-search-plus fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search-plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M304 192v32c0 6.6-5.4 12-12 12h-56v56c0 6.6-5.4 12-12 12h-32c-6.6 0-12-5.4-12-12v-56h-56c-6.6 0-12-5.4-12-12v-32c0-6.6 5.4-12 12-12h56v-56c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v56h56c6.6 0 12 5.4 12 12zm201 284.7L476.7 505c-9.4 9.4-24.6 9.4-33.9 0L343 405.3c-4.5-4.5-7-10.6-7-17V372c-35.3 27.6-79.7 44-128 44C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208c0 48.3-16.4 92.7-44 128h16.3c6.4 0 12.5 2.5 17 7l99.7 99.7c9.3 9.4 9.3 24.6 0 34zM344 208c0-75.2-60.8-136-136-136S72 132.8 72 208s60.8 136 136 136 136-60.8 136-136z"></path></svg><!-- <i class="fas fa-search-plus" aria-hidden="true"></i> --></span>
+              </a>
+            </div>
+          </div>
+          <div class="medium-6 large-8 xlarge-9 cell">
+            <div class="grid-y large-grid-frame">
+              <div class="cell large-auto">
+                <div class="grid-x grid-padding-x">
+                  <div class="cell large-6">
+                    <ul class="species-observations inline rule">
+                      <li>
+                        <div class="list-name">Category</div>
+                        <div class="list-value">
+                          <a href="https://diatoms.org/morphology/asymmetric_biraphid">Asymmetric Biraphid</a>
+                        </div>
+                      </li>
+                                          <li>
+                        <div class="list-name">Length Range</div>
+                        <div class="list-value">20-32 µm</div>
+                      </li>
+                                                              <li>
+                        <div class="list-name">Width Range</div>
+                        <div class="list-value">4.2-4.9 µm </div>
+                      </li>
+                                                              <li>
+                        <div class="list-name">Striae in 10 µm</div>
+                        <div class="list-value">17-21 at valve center, up to 28 at the apices</div>
+                      </li>
+                                        </ul>
+                  </div>
+                  <div class="cell large-6">
+
+                    <ul class="species-names simple">
+                                          <li>
+                        <div class="list-name">Synonyms</div>
+                        <div class="list-value">
+                                                                                            <em>Cymbopleura tundraphila</em> Bahls 2017<br>
+                                                                      </div>
+                      </li>
+                    
+                    
+
+                                        </ul>
+
+                  </div>
+                </div>
+              </div>
+              <div class="cell shrink">
+                <div class="grid-x grid-padding-x">
+                  <div class="cell large-6">
+                    <ul class="species-contributors inline">
+                      <li>
+                        <div class="list-name">Contributor</div>
+                        <div class="list-value">
+                                                                          <a href="https://diatoms.org/contributor/LorenBahls">Loren Bahls</a>
+                                                  - Dec 2018
+                        </div>
+                      </li>
+                      <li>
+                        <div class="list-name">Reviewer</div>
+                        <div class="list-value">
+                                                                          <a href="https://diatoms.org/contributor/SarahSpaulding">Sarah Spaulding</a>
+                                                  - Jan 2019
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+        </div>
+
+    <div id="species-nav" class="species-nav sticky-container" data-sticky-container="" style="height: 89.6px;">
+      <div data-sticky="" data-top-anchor="species-nav" data-margin-top="0" class="sticky is-anchored is-at-top" data-resize="nm37m0-sticky" data-mutate="nm37m0-sticky" data-e="ovdt55-e" style="max-width: 673px; margin-top: 0px; bottom: auto; top: 0px;" data-events="mutate">
+        <div class="grid-container">
+          <div class="species-nav-container">
+                      <a class="button-compare button" href="/species/delicatophycus-tundraphilus/compare">Compare </a>
+                      <ul class="menu" data-magellan="" data-offset="20" data-resize="zfxlgr-magellan" data-scroll="zfxlgr-magellan" id="zfxlgr-magellan" data-e="669qic-e" data-events="scroll">
+              <li><a href="#identification">Identification</a></li>
+              <li><a href="#autecology">Autecology</a></li>
+              <li><a href="#original-description">Original Description</a></li>
+                          <li><a href="#citations">Citations &amp; Links</a></li>
+                          <li><a href="#updates">Updates</a></li>
+                        </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div id="identification" data-magellan-target="identification" class="section species-identification">
+      <div class="grid-container">
+        <h2 class="section-header h3">Identification</h2>
+
+              <div class="species-images-lm">
+          <div class="image-set">
+                                                                            <a href="/species/delicatophycus-tundraphilus/images#image-94561" class="type-image type-holotype">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Cymbopleura_tundraphila_1_683001.jpg" alt="Cymbopleura Tundraphila LM1" style="height: 660px;">
+            </a>
+                                                                  <a href="/species/delicatophycus-tundraphilus/images#image-94562" class="type-image type-holotype">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Cymbopleura_tundraphila_2_683001.jpg" alt="Cymbopleura Tundraphila LM2" style="height: 576px;">
+            </a>
+                                                                  <a href="/species/delicatophycus-tundraphilus/images#image-94563" class="type-image type-holotype">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Cymbopleura_tundraphila_3_683001.jpg" alt="Cymbopleura Tundraphila LM3" style="height: 526px;">
+            </a>
+                                                                  <a href="/species/delicatophycus-tundraphilus/images#image-94564" class="type-image type-holotype">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Cymbopleura_tundraphila_4_683001.jpg" alt="Cymbopleura Tundraphila LM4" style="height: 495px;">
+            </a>
+                                                                  <a href="/species/delicatophycus-tundraphilus/images#image-94565" class="type-image type-holotype">
+              <img loading="lazy" src="https://assets.diatoms.org/images/species_lm_images/Cymbopleura_tundraphila_5_683001.jpg" alt="Cymbopleura Tundraphila LM5" style="height: 480px;">
+            </a>
+                    </div>
+          <div class="image-set-key">
+            <a href="/species/delicatophycus-tundraphilus/images"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" data-prefix="fas" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fas fa-search" aria-hidden="true"></i> --> View image metadata</a>
+            <span class="type-image-key">Type</span>          </div>
+        </div>
+      
+
+
+      
+      
+              <div class="species-description">
+          <h3 class="h4">Description</h3>
+          <div class="two-column">
+            <p>Valves are linear-lanceolate and weakly dorsiventral, with rounded apices. The dorsal margin is arched; the ventral margin is nearly flat. The axial area is very narrow. The central area is small and elliptic, or absent. The raphe is weakly lateral with ventrally deflected proximal ends and dorsally deflected terminal ends. The proximal raphe ends are simple and not expanded. Striae are radiate throughout.</p>
+<p>This taxon lacks stigmata and the strongly dorsiventral valves that are characteristic of the genus <em>Cymbella</em>.</p>
+          </div>
+        </div>
+      
+      </div>
+    </div>
+
+      <div id="autecology" data-magellan-target="autecology" class="section species-autecology">
+      <div class="grid-container">
+        <h2 class="section-header h3">Autecology</h2>
+
+        <div class="grid-x grid-margin-x">
+                  <div class="large-6 cell">
+            <div class="autecology-description">
+              <p>This taxon <em></em>has been collected from two alkaline (pH 8.17 and 8.30) lakes on the tundra in northern Canada. Both lakes are on the Canadian Shield in the catchment of the Coppermine River. The lakes (photos below) have substrata composed of ferric hydroxide floc, formed when dissolved iron is complexed in the presence of organic matter (peat).</p>
+            </div>
+          </div>
+                  <div class="large-6 cell">
+            <div class="callout">
+              <div class="species-autecology-categories">
+                <ul class="inline rule">
+                                  <li>
+                    <div class="list-name">Size Range, µm3</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?sizeRange=101-1000" class="tag">101-1000</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Motility</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?motility=slightly-motile" class="tag">Slightly motile</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Attachment</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?attachment=unattached" class="tag">Unattached</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Habitat</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?habitat=benthic" class="tag">Benthic</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Colony</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?colony=solitary" class="tag">Solitary</a>
+                                        </div>
+                  </li>
+                                                  <li>
+                    <div class="list-name">Occurrence</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?occurrence=rare" class="tag">Rare</a>
+                                        </div>
+                  </li>
+                                                                                                  <li>
+                    <div class="list-name">Waterbody</div>
+                    <div class="list-value">
+                                                              <a href="https://diatoms.org/species?waterbody=inland" class="tag">Inland</a>
+                                          <a href="https://diatoms.org/species?waterbody=lakes" class="tag">Lakes</a>
+                                        </div>
+                  </li>
+                                                                  <li>
+                    <a href="/practitioners/how-and-where-do-diatoms-live-autecology-tags" class="autecology-key">Learn more about this <svg class="svg-inline--fa fa-angle-right fa-w-8" aria-hidden="true" data-prefix="fas" data-icon="angle-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512" data-fa-i2svg=""><path fill="currentColor" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg><!-- <i class="fas fa-angle-right"></i> --></a>
+                  </li>
+                                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-x grid-padding-x small-up-1 medium-up-2 large-up-3 xlarge-up-4">
+                          <div class="cell">
+            <div class="taxa-image autecology-image">
+              <a href="https://diatoms.org/images/94342"><img loading="lazy" src="https://assets.diatoms.org/images/species_autecology_images/_max600/Bloody-Falls-Tundra-Lake.jpg" alt="Bloody Falls Tundra Lake"></a>
+                            <div class="credit">Credit: Beverly Boynton</div>
+                                          <div class="caption">Bloody Falls Tundra Lake, Nunavut, Canada.</div>
+                          </div>
+          </div>
+                  <div class="cell">
+            <div class="taxa-image autecology-image">
+              <a href="https://diatoms.org/images/94341"><img loading="lazy" src="https://assets.diatoms.org/images/species_autecology_images/_max600/September-Mountains-Lake.jpg" alt="September Mountains Lake"></a>
+                            <div class="credit">Credit: Beverly Boynton</div>
+                                          <div class="caption">September Mountains Lake, Nunavut, Canada.</div>
+                          </div>
+          </div>
+                </div>
+
+      </div>
+    </div>
+
+      <div id="original-description" data-magellan-target="original-description" class="section species-original-description">
+      <div class="grid-container">
+        <h2 class="section-header h3">Original Description</h2>
+        <div class="grid-x grid-margin-x">
+                  <div class="large-6 cell">
+            <p>Valves are linear-lanceolate and weakly dorsiventral with rounded apices. The dorsal margin is arched; the ventral margin is nearly flat. Valve length 21-32 μm; valve width 4.2-4.9 μm. The axial area is very narrow; the central area is small and elliptic or absent. The raphe is weakly lateral with ventrally deflected proximal ends and dorsally deflected terminal ends. Striae are radiate throughout, 17-21 in 10 μm at the valve center, up to 28 in 10 μm at the apices. [n=10]</p>
+          </div>
+                  <div class="large-6 cell">
+            <ul class="species-names inline rule">
+                                      <li>
+                <div class="list-name">Author</div>
+                <div class="list-value">Bahls 2017</div>
+              </li>
+                                      <li>
+                <div class="list-name">Length Range</div>
+                <div class="list-value">21-32 µm</div>
+              </li>
+                                      <li>
+                <div class="list-name">Width</div>
+                <div class="list-value">4.2-4.9 µm</div>
+              </li>
+                                      <li>
+                <div class="list-name">Striae in 10µm</div>
+                <div class="list-value">17-21 at valve center, up to 28 at the apices</div>
+              </li>
+                        </ul>
+          </div>
+        </div>
+
+              <div class="species-original-images">
+          <h3 class="h4">Original Images</h3>
+          <div class="masonry-css">
+                                <div class="masonry-css-item">
+              <a href="https://diatoms.org/images/94560"><img loading="lazy" src="https://assets.diatoms.org/images/species_orig_images/_max600/Cymbopleura_tundraphila_origimag.jpg" alt="Cymbopleura Tundraphila Origimag"></a>
+            </div>
+                                        </div>
+
+                </div>
+      
+      </div>
+    </div>
+
+    
+      <div id="citations" data-magellan-target="citations" class="section species-citations">
+      <div class="grid-container">
+        <h2 class="section-header h3">Citations &amp; Links</h2>
+        <div class="grid-x grid-margin-x">
+          <div class="large-6 cell">
+            <h3 class="h4">Citations</h3>
+  <ul class="citations-list">
+        <li><div class="citation-title">
+  <a href="https://diatoms.org/citations/bahls_ll-2017-diatoms_from_western_north_america_1_some_new_and_notable_bir"><strong class="citation-title">Bahls, L.L. (2017)</strong> Diatoms from western North America 1. Some new and notable biraphid species. <em>Helena, Montana: edited and published by the author. pp. [1]-52, 288 figs. ISBN-10: 0945345860  ISBN-13: 978-0945345862</em> </a>
+</div>
+</li>
+      <li><div class="citation-title">
+  <a href="https://diatoms.org/citations/edlund-et-al-2024-diatoms-of-north-america-nomenclatural-transfers-within-the-bacillariophyceae-1"><strong class="citation-title">Edlund, M.B., Spaulding, S.A., Bishop, I.W., Potapova, M., Lee, S.S., Furey, P.C. and Jovanoska, E. (2024)</strong> Diatoms of North America: Nomenclatural transfers within the Bacillariophyceae 1. <em>Notulae Algarum No. 319 (20 February 2024) ISSN 2009-8987</em> </a>
+</div>
+</li>
+      <li><div class="citation-title">
+  <a href="https://diatoms.org/citations/wynne-2019-delicatophycus-gen-nov-a-validation-of-delicata-krammer-inval-gomphonemataceae-bacillariophyta"><strong class="citation-title">Wynne, M.J. (2019)</strong> <em>Delicatophycus gen. nov</em>.: a validation of “<em>Delicata</em> Krammer” <em>inval</em>. (<em>Gomphonemataceae</em>, Bacillariophyta) <em>Notulae algarum 97: ISSN 2009-8987</em> </a>
+</div>
+</li>
+    </ul>
+          </div>
+          <div class="large-6 cell">
+            <h3 class="h4">Links</h3>
+            <ul class="simple">
+
+                          <li>
+                <div class="list-name">Index Nominum Algarum</div>
+                <div class="list-value">
+                                                                    <a href="http://ucjeps.berkeley.edu/cgi-bin/porp_cgi.pl?153287">Original</a>
+                                                  </div>
+              </li>
+            
+                        
+            
+            
+            
+            
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+        <div id="updates" data-magellan-target="" class="section species-update">
+      <div class="grid-container">
+        <h2 class="section-header h3">Updates</h2>
+        <div class="grid-x grid-margin-x">
+          <div class="large-6 cell">
+                                            <div class="entry-update">
+              <h3 class="h4">Mar 18, 2024 - Transfer</h3>
+              <p>From January 1, 2019 to March 18, 2024, this taxon appeared on diatoms.org as <em>Cymbopleura tundraphila </em>Bahls 2017. Following the transfer to <em>Delicatophycus</em> (Edlund et al. 2024), it now appears as <em>D. tundraphilus </em>(Bahls) Edlund 2024.</p>
+            </div>
+                                </div>
+        </div>
+      </div>
+    </div>
+  
+      <div id="cite" data-magellan-target="" class="section species-cite">
+      <div class="grid-container">
+        <h2 class="section-header h3">Cite This Page</h2>
+        <p>
+                          Bahls, L.          (2018).
+          Delicatophycus tundraphilus.
+          In Diatoms of North America.
+          Retrieved May 28, 2025, from https://diatoms.org/species/94556/delicatophycus-tundraphilus
+        </p>
+      </div>
+    </div>
+
+  </main>
+
+</section>
+
+
+
+<div class="dropdown-guide species-guide dropdown-pane right" id="species-guide" data-dropdown="" data-hover="true" data-hover-pane="true" aria-hidden="true" data-yeti-box="species-guide" data-resize="species-guide" aria-labelledby="2vkl7c-dd-anchor" data-e="0nbexa-e">
+  <div class="grid-x grid-margin-x">
+    <div class="medium-6 cell">
+      <div class="guide-image">
+                  <img loading="lazy" src="https://assets.diatoms.org/images/species_guide_images/_square600/Cymbopleura_tundraphila_guide.jpg" alt="Cymbopleura Tundraphila Guide">
+              </div>
+    </div>
+    <div class="medium-6 cell">
+      <div class="guide-content">
+        <h3 class="guide-name">Delicatophycus tundraphilus  </h3>
+        <p class="guide-author">(Bahls) Edlund 2024</p>
+        <ol class="simple guide-points">
+                                              <li>Valve linear-lanceolate</li>
+                                                <li>Valves small, &lt; 5 µm wide</li>
+                                                <li>Stria density 17-28 in 10 µm</li>
+                                                <li>Proximal raphe ends simple, deflected ventrally</li>
+                                                <li>Central area small, or lacking</li>
+                              </ol>
+
+      </div>
+    </div>
+  </div>
+  <div class="guide-description">
+    Valves are small, linear-lanceolate and less than 5 µm wide. Striae are fine (17-28 in 10 µm) and radiate throughout. Proximal raphe ends are deflected ventrally and simple, rather than expanded or reverse-lateral. The central area is small or lacking.
+  </div>
+</div>
+
+
+	<footer class="site-footer">
+		<div class="grid-container">
+			<div class="site-footer-main grid-x grid-margin-x">
+				<div class="medium-4 cell">
+					<h4 class="site-name h4">Diatoms of North America</h4>
+					<p>The source for diatom identification and ecology</p>
+											<div class="resource-citation"><p>Cite as: Spaulding et al. 2021. Diatoms.org: supporting taxonomists, connecting communities. Diatom Research 36(4): 291-304. <a href="https://doi.org/10.1080/0269249X.2021.2006790">https://doi.org/10.1080/0269249X.2021.2006790</a></p></div>
+									</div>
+				<div class="medium-3 large-2 medium-offset-1 cell">
+					<ul class="menu vertical">
+						<li><a href="https://diatoms.org/">Home</a></li>
+						<li><a href="https://diatoms.org/what-are-diatoms">What are Diatoms?</a></li>
+						<li><a href="https://diatoms.org/about">About Us</a></li>
+						<li><a href="https://diatoms.org/contact">Contact Us</a></li>
+					</ul>
+				</div>
+				<div class="medium-3 large-2 cell">
+					<ul class="menu vertical">
+						<li><a href="https://diatoms.org/practitioners">Practitioners</a></li>
+						<li><a href="https://diatoms.org/morphology">Morphology</a></li>
+						<li><a href="https://diatoms.org/genera">Genera</a></li>
+						<li><a href="https://diatoms.org/species">Species</a></li>
+						<li><a href="https://diatoms.org/glossary">Glossary</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="site-legal grid-x grid-padding-x">
+				<div class="medium-12 cell">
+					<div class="privacy"><a href="https://diatoms.org/privacy-policy">Privacy Policy</a></div>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
+
+
+
+
+<script src="/js/vendor/what-input/dist/what-input.min.js"></script>
+<script src="/js/vendor/foundation-sites/dist/js/foundation.min.js"></script>
+<script src="/js/vendor/rangeSlider/ion.rangeSlider.js"></script>
+<script src="/js/vendor/slick-carousel/slick/slick.min.js"></script>
+<script src="/js/app.js?2.0.02"></script><div class="reveal-overlay"><div class="reveal medium" id="emapKeyModal" data-reveal="" role="dialog" aria-hidden="true" data-yeti-box="emapKeyModal" data-resize="emapKeyModal" data-e="2hqhzj-e">
+  <h2 class="h3">Responses</h2>
+  <p>The 15 response plots show an environmental variable (x axis) against the relative abundance (y axis) of <em>Delicatophycus tundraphilus  </em> from all the stream reaches where it was present. Note that the relative abundance scale is the same on each plot. Explanation of each environmental variable and units are as follows:</p>
+  <p>
+    <strong>ELEVATION</strong> = stream reach elevation (meters)<br>
+    <strong>STRAHLER</strong> = distribution plot of the Strahler Stream Order <br>
+    <strong>SLOPE</strong> = stream reach gradient (degrees)<br>
+    <strong>W1_HALL</strong> = an index that is a measure of streamside (riparian) human activity that ranges from 0 - 10, with a value of 0 indicating of minimal disturbance to a value of 10 indicating severe disturbance.<br>
+    <strong>PHSTVL</strong> = pH measured in a sealed syringe sample (pH units)<br>
+    <strong>log_COND</strong> = log concentration of specific conductivity (µS/cm)<br>
+    <strong>log_PTL</strong> = log concentration of total phosphorus (µg/L)<br>
+    <strong>log_NO3</strong> = log concentration of nitrate (µeq/L)<br>
+    <strong>log_DOC</strong> = log concentration of dissolved organic carbon (mg/L)<br>
+    <strong>log_SIO2</strong> = log concentration of silicon (mg/L)<br>
+    <strong>log_NA</strong> = log concentration of sodium (µeq/L)<br>
+    <strong>log_HCO3</strong> = log concentration of the bicarbonate ion (µeq/L)<br>
+    <strong>EMBED</strong> = percent of the stream substrate that is embedded by sand and fine sediment<br>
+    <strong>log_TURBIDITY</strong> = log of turbidity, a measure of cloudiness of water, in nephelometric turbidity units (NTU).<br>
+    <strong>DISTOT</strong> = an index of total human disturbance in the watershed that ranges from 1 - 100, with a value of 0 indicating of minimal disturbance to a value of 100 indicating severe disturbance.<br>
+  </p>
+  <button class="close-button" data-close="" aria-label="Close modal" type="button">
+    <span aria-hidden="true">×</span>
+  </button>
+</div></div>
+<script src="/js/dynamic.js??2.0.02"></script>
+<script src="//unpkg.com/alpinejs" defer=""></script>
+
+
+
+<script>$(document).ready(function(){
+  let revealOverlay = document.querySelector('.reveal-overlay');
+  var globalModal = document.querySelector('#globalModal');
+  
+  if (globalModal) {
+    if (window.sessionStorage.getItem('close-banner') === '1') {
+      $('#globalModal').foundation('close');
+    } else {
+      $('#globalModal').foundation('open');
+      
+      globalModal.addEventListener('click', function (e) {
+        window.sessionStorage.setItem('close-banner', '1');
+      });
+    }
+  }
+});</script>
+
+<div></div>
