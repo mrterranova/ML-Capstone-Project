@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1820</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>88</id>
+      <name>Gomphonema tergestinum</name>
+      <bbox>
+        <xmin>1569</xmin>
+        <xmax>1732</xmax>
+        <ymin>521</ymin>
+        <ymax>670</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>1</id>
+      <name>Cymbella cantonatii</name>
+      <bbox>
+        <xmin>703</xmin>
+        <xmax>1290</xmax>
+        <ymin>777</ymin>
+        <ymax>1112</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

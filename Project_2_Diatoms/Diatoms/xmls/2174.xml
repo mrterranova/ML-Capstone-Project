@@ -1,0 +1,71 @@
+<annotation>
+  <filename>2174</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>6</segmented>
+  <objects>
+    <object>
+      <id>33</id>
+      <name>Planothidium frequentissimum</name>
+      <bbox>
+        <xmin>374</xmin>
+        <xmax>491</xmax>
+        <ymin>684</ymin>
+        <ymax>950</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>131</id>
+      <name>Navicula moskalii</name>
+      <bbox>
+        <xmin>552</xmin>
+        <xmax>684</xmax>
+        <ymin>1168</ymin>
+        <ymax>1577</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>128</id>
+      <name>Navicula upsaliensis</name>
+      <bbox>
+        <xmin>808</xmin>
+        <xmax>1063</xmax>
+        <ymin>691</ymin>
+        <ymax>1206</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>133</id>
+      <name>Stauroneis blazenciciae</name>
+      <bbox>
+        <xmin>784</xmin>
+        <xmax>1095</xmax>
+        <ymin>575</ymin>
+        <ymax>709</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>62</id>
+      <name>Navicula lanceolata</name>
+      <bbox>
+        <xmin>862</xmin>
+        <xmax>1384</xmax>
+        <ymin>417</ymin>
+        <ymax>1552</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>62</id>
+      <name>Navicula lanceolata</name>
+      <bbox>
+        <xmin>634</xmin>
+        <xmax>1869</xmax>
+        <ymin>196</ymin>
+        <ymax>401</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

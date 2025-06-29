@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1678</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>111</id>
+      <name>Pinnularia brebissonii</name>
+      <bbox>
+        <xmin>1226</xmin>
+        <xmax>1811</xmax>
+        <ymin>835</ymin>
+        <ymax>1106</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

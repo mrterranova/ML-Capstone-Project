@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2336</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>916</xmin>
+        <xmax>1060</xmax>
+        <ymin>1093</ymin>
+        <ymax>1380</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>1290</xmin>
+        <xmax>1519</xmax>
+        <ymin>728</ymin>
+        <ymax>943</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

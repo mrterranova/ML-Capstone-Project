@@ -1,0 +1,41 @@
+<annotation>
+  <filename>2820</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>65</id>
+      <name>Humidophila contenta</name>
+      <bbox>
+        <xmin>891</xmin>
+        <xmax>1088</xmax>
+        <ymin>989</ymin>
+        <ymax>1068</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>1202</xmin>
+        <xmax>1534</xmax>
+        <ymin>1309</ymin>
+        <ymax>1477</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>622</xmin>
+        <xmax>955</xmax>
+        <ymin>1301</ymin>
+        <ymax>1449</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

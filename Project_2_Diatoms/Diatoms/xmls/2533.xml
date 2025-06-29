@@ -1,0 +1,51 @@
+<annotation>
+  <filename>2533</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>4</segmented>
+  <objects>
+    <object>
+      <id>65</id>
+      <name>Humidophila contenta</name>
+      <bbox>
+        <xmin>1807</xmin>
+        <xmax>1901</xmax>
+        <ymin>28</ymin>
+        <ymax>206</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>65</id>
+      <name>Humidophila contenta</name>
+      <bbox>
+        <xmin>780</xmin>
+        <xmax>926</xmax>
+        <ymin>304</ymin>
+        <ymax>426</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>7</id>
+      <name>Meridion circulare</name>
+      <bbox>
+        <xmin>1619</xmin>
+        <xmax>1778</xmax>
+        <ymin>404</ymin>
+        <ymax>954</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>44</id>
+      <name>Navicula gregaria</name>
+      <bbox>
+        <xmin>854</xmin>
+        <xmax>1192</xmax>
+        <ymin>900</ymin>
+        <ymax>1112</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

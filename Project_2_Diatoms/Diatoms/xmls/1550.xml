@@ -1,0 +1,41 @@
+<annotation>
+  <filename>1550</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>95</id>
+      <name>Navicula cryptotenelloides</name>
+      <bbox>
+        <xmin>196</xmin>
+        <xmax>508</xmax>
+        <ymin>664</ymin>
+        <ymax>810</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>108</id>
+      <name>Epithemia argus</name>
+      <bbox>
+        <xmin>842</xmin>
+        <xmax>1185</xmax>
+        <ymin>429</ymin>
+        <ymax>924</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>21</id>
+      <name>Nitzschia archibaldii</name>
+      <bbox>
+        <xmin>1143</xmin>
+        <xmax>1511</xmax>
+        <ymin>204</ymin>
+        <ymax>385</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

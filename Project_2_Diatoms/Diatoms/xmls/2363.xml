@@ -1,0 +1,41 @@
+<annotation>
+  <filename>2363</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>1133</xmin>
+        <xmax>1256</xmax>
+        <ymin>891</ymin>
+        <ymax>1245</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>96</id>
+      <name>Nitzschia hantzschiana</name>
+      <bbox>
+        <xmin>1333</xmin>
+        <xmax>1462</xmax>
+        <ymin>168</ymin>
+        <ymax>334</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>118</id>
+      <name>Gomphonema calcifugum</name>
+      <bbox>
+        <xmin>1260</xmin>
+        <xmax>1460</xmax>
+        <ymin>1070</ymin>
+        <ymax>1285</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

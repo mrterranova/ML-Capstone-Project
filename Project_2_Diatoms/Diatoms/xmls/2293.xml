@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2293</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>7</id>
+      <name>Meridion circulare</name>
+      <bbox>
+        <xmin>387</xmin>
+        <xmax>531</xmax>
+        <ymin>870</ymin>
+        <ymax>1482</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>506</xmin>
+        <xmax>849</xmax>
+        <ymin>775</ymin>
+        <ymax>909</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

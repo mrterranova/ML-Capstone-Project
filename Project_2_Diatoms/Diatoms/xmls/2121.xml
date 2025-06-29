@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2121</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>133</id>
+      <name>Stauroneis blazenciciae</name>
+      <bbox>
+        <xmin>1002</xmin>
+        <xmax>1319</xmax>
+        <ymin>511</ymin>
+        <ymax>692</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>132</id>
+      <name>Neidiomorpha binodiformis</name>
+      <bbox>
+        <xmin>119</xmin>
+        <xmax>447</xmax>
+        <ymin>231</ymin>
+        <ymax>382</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

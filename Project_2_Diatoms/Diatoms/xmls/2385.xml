@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2385</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>64</id>
+      <name>Sellaphora radiosa</name>
+      <bbox>
+        <xmin>1946</xmin>
+        <xmax>2031</xmax>
+        <ymin>965</ymin>
+        <ymax>1168</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>65</id>
+      <name>Humidophila contenta</name>
+      <bbox>
+        <xmin>996</xmin>
+        <xmax>1131</xmax>
+        <ymin>809</ymin>
+        <ymax>996</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

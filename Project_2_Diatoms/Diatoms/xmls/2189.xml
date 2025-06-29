@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2189</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>134</id>
+      <name>Nitzschia recta</name>
+      <bbox>
+        <xmin>612</xmin>
+        <xmax>1470</xmax>
+        <ymin>711</ymin>
+        <ymax>892</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

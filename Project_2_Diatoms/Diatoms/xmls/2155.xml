@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2155</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>130</id>
+      <name>Amphora inariensis</name>
+      <bbox>
+        <xmin>1779</xmin>
+        <xmax>2008</xmax>
+        <ymin>93</ymin>
+        <ymax>481</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

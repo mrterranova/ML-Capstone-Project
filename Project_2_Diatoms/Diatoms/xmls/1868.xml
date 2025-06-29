@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1868</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>96</id>
+      <name>Nitzschia hantzschiana</name>
+      <bbox>
+        <xmin>632</xmin>
+        <xmax>1103</xmax>
+        <ymin>396</ymin>
+        <ymax>666</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

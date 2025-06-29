@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1915</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>120</id>
+      <name>Gomphonema supertergestinum</name>
+      <bbox>
+        <xmin>385</xmin>
+        <xmax>625</xmax>
+        <ymin>643</ymin>
+        <ymax>868</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>120</id>
+      <name>Gomphonema supertergestinum</name>
+      <bbox>
+        <xmin>824</xmin>
+        <xmax>1168</xmax>
+        <ymin>778</ymin>
+        <ymax>909</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

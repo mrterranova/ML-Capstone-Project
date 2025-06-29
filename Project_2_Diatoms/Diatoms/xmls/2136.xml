@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2136</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>131</id>
+      <name>Navicula moskalii</name>
+      <bbox>
+        <xmin>818</xmin>
+        <xmax>984</xmax>
+        <ymin>993</ymin>
+        <ymax>1386</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

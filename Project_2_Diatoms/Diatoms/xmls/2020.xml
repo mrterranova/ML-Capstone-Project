@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2020</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>88</id>
+      <name>Gomphonema tergestinum</name>
+      <bbox>
+        <xmin>742</xmin>
+        <xmax>858</xmax>
+        <ymin>1195</ymin>
+        <ymax>1454</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

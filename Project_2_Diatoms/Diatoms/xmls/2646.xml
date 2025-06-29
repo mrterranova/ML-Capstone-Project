@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2646</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>65</id>
+      <name>Humidophila contenta</name>
+      <bbox>
+        <xmin>32</xmin>
+        <xmax>174</xmax>
+        <ymin>90</ymin>
+        <ymax>245</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>51</id>
+      <name>Gomphonema pumilum</name>
+      <bbox>
+        <xmin>1691</xmin>
+        <xmax>1924</xmax>
+        <ymin>150</ymin>
+        <ymax>271</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

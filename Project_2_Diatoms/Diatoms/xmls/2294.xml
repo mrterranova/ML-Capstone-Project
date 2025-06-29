@@ -1,0 +1,41 @@
+<annotation>
+  <filename>2294</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>549</xmin>
+        <xmax>693</xmax>
+        <ymin>740</ymin>
+        <ymax>971</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>1472</xmin>
+        <xmax>1660</xmax>
+        <ymin>1094</ymin>
+        <ymax>1339</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>1847</xmin>
+        <xmax>2048</xmax>
+        <ymin>225</ymin>
+        <ymax>328</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

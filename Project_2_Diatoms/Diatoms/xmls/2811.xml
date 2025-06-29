@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2811</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>870</xmin>
+        <xmax>990</xmax>
+        <ymin>766</ymin>
+        <ymax>1061</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>65</id>
+      <name>Humidophila contenta</name>
+      <bbox>
+        <xmin>1585</xmin>
+        <xmax>1723</xmax>
+        <ymin>763</ymin>
+        <ymax>899</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

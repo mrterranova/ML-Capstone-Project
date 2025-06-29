@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2073</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>95</id>
+      <name>Navicula cryptotenelloides</name>
+      <bbox>
+        <xmin>741</xmin>
+        <xmax>838</xmax>
+        <ymin>1010</ymin>
+        <ymax>1313</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>134</id>
+      <name>Nitzschia recta</name>
+      <bbox>
+        <xmin>686</xmin>
+        <xmax>1679</xmax>
+        <ymin>466</ymin>
+        <ymax>1191</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

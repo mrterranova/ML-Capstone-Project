@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1997</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>88</id>
+      <name>Gomphonema tergestinum</name>
+      <bbox>
+        <xmin>973</xmin>
+        <xmax>1255</xmax>
+        <ymin>543</ymin>
+        <ymax>642</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>1506</xmin>
+        <xmax>1862</xmax>
+        <ymin>93</ymin>
+        <ymax>234</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

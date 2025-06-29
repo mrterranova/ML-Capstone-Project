@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1865</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>123</id>
+      <name>Gomphonema exilissimum</name>
+      <bbox>
+        <xmin>788</xmin>
+        <xmax>1032</xmax>
+        <ymin>844</ymin>
+        <ymax>1224</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

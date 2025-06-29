@@ -1,0 +1,41 @@
+<annotation>
+  <filename>1519</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>105</id>
+      <name>Luticola nivalis</name>
+      <bbox>
+        <xmin>506</xmin>
+        <xmax>689</xmax>
+        <ymin>862</ymin>
+        <ymax>1126</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>91</id>
+      <name>Halamphora veneta</name>
+      <bbox>
+        <xmin>1143</xmin>
+        <xmax>1479</xmax>
+        <ymin>206</ymin>
+        <ymax>367</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>97</id>
+      <name>Halamphora paraveneta</name>
+      <bbox>
+        <xmin>933</xmin>
+        <xmax>1486</xmax>
+        <ymin>1258</ymin>
+        <ymax>1380</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

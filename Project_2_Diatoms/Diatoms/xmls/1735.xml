@@ -1,0 +1,51 @@
+<annotation>
+  <filename>1735</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>4</segmented>
+  <objects>
+    <object>
+      <id>120</id>
+      <name>Gomphonema supertergestinum</name>
+      <bbox>
+        <xmin>901</xmin>
+        <xmax>1031</xmax>
+        <ymin>742</ymin>
+        <ymax>1063</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>88</id>
+      <name>Gomphonema tergestinum</name>
+      <bbox>
+        <xmin>1277</xmin>
+        <xmax>1510</xmax>
+        <ymin>219</ymin>
+        <ymax>321</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>258</xmin>
+        <xmax>594</xmax>
+        <ymin>1102</ymin>
+        <ymax>1338</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>1555</xmin>
+        <xmax>1984</xmax>
+        <ymin>830</ymin>
+        <ymax>1084</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

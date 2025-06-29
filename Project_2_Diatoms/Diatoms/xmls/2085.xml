@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2085</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>44</id>
+      <name>Navicula gregaria</name>
+      <bbox>
+        <xmin>909</xmin>
+        <xmax>1126</xmax>
+        <ymin>872</ymin>
+        <ymax>1277</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

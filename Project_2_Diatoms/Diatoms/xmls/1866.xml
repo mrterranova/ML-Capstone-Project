@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1866</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>683</xmin>
+        <xmax>1090</xmax>
+        <ymin>521</ymin>
+        <ymax>723</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

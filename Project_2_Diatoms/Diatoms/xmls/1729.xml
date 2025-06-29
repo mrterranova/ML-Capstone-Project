@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1729</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>668</xmin>
+        <xmax>1024</xmax>
+        <ymin>930</ymin>
+        <ymax>1128</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>1228</xmin>
+        <xmax>1625</xmax>
+        <ymin>247</ymin>
+        <ymax>498</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

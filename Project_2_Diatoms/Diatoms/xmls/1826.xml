@@ -1,0 +1,41 @@
+<annotation>
+  <filename>1826</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>561</xmin>
+        <xmax>840</xmax>
+        <ymin>640</ymin>
+        <ymax>1018</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>623</xmin>
+        <xmax>914</xmax>
+        <ymin>427</ymin>
+        <ymax>683</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>1108</xmin>
+        <xmax>1448</xmax>
+        <ymin>840</ymin>
+        <ymax>1070</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2065</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>128</id>
+      <name>Navicula upsaliensis</name>
+      <bbox>
+        <xmin>1179</xmin>
+        <xmax>1423</xmax>
+        <ymin>967</ymin>
+        <ymax>1417</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>131</id>
+      <name>Navicula moskalii</name>
+      <bbox>
+        <xmin>434</xmin>
+        <xmax>789</xmax>
+        <ymin>202</ymin>
+        <ymax>435</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

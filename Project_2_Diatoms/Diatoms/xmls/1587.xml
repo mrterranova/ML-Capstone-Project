@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1587</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>91</id>
+      <name>Halamphora veneta</name>
+      <bbox>
+        <xmin>452</xmin>
+        <xmax>670</xmax>
+        <ymin>755</ymin>
+        <ymax>1000</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>1176</xmin>
+        <xmax>1727</xmax>
+        <ymin>602</ymin>
+        <ymax>726</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

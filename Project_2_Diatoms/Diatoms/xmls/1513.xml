@@ -1,0 +1,41 @@
+<annotation>
+  <filename>1513</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>97</id>
+      <name>Halamphora paraveneta</name>
+      <bbox>
+        <xmin>1290</xmin>
+        <xmax>1410</xmax>
+        <ymin>161</ymin>
+        <ymax>618</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>1746</xmin>
+        <xmax>1969</xmax>
+        <ymin>647</ymin>
+        <ymax>1139</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>99</id>
+      <name>Cymbella excisa var. subcapitata</name>
+      <bbox>
+        <xmin>784</xmin>
+        <xmax>1306</xmax>
+        <ymin>252</ymin>
+        <ymax>754</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1936</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>1450</xmin>
+        <xmax>1703</xmax>
+        <ymin>960</ymin>
+        <ymax>1070</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>96</id>
+      <name>Nitzschia hantzschiana</name>
+      <bbox>
+        <xmin>1247</xmin>
+        <xmax>1534</xmax>
+        <ymin>91</ymin>
+        <ymax>238</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

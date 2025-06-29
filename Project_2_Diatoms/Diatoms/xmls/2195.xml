@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2195</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>29</id>
+      <name>Cocconeis pseudolineata</name>
+      <bbox>
+        <xmin>972</xmin>
+        <xmax>1207</xmax>
+        <ymin>937</ymin>
+        <ymax>1335</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

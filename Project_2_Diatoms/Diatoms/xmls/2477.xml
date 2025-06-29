@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2477</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>7</id>
+      <name>Meridion circulare</name>
+      <bbox>
+        <xmin>859</xmin>
+        <xmax>1097</xmax>
+        <ymin>629</ymin>
+        <ymax>734</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>734</xmin>
+        <xmax>1017</xmax>
+        <ymin>723</ymin>
+        <ymax>897</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

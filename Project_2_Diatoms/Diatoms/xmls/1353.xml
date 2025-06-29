@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1353</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>753</xmin>
+        <xmax>1153</xmax>
+        <ymin>1286</ymin>
+        <ymax>1394</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>98</id>
+      <name>Hantzschiana abundans</name>
+      <bbox>
+        <xmin>959</xmin>
+        <xmax>1369</xmax>
+        <ymin>287</ymin>
+        <ymax>1500</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

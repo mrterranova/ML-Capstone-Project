@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2494</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>1018</xmin>
+        <xmax>1423</xmax>
+        <ymin>1218</ymin>
+        <ymax>1428</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1358</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>97</id>
+      <name>Halamphora paraveneta</name>
+      <bbox>
+        <xmin>424</xmin>
+        <xmax>683</xmax>
+        <ymin>315</ymin>
+        <ymax>778</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1995</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>121</id>
+      <name>Surella minuta</name>
+      <bbox>
+        <xmin>1300</xmin>
+        <xmax>1583</xmax>
+        <ymin>662</ymin>
+        <ymax>981</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

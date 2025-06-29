@@ -1,0 +1,51 @@
+<annotation>
+  <filename>2539</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>4</segmented>
+  <objects>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>661</xmin>
+        <xmax>773</xmax>
+        <ymin>1045</ymin>
+        <ymax>1276</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>843</xmin>
+        <xmax>977</xmax>
+        <ymin>482</ymin>
+        <ymax>823</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>586</xmin>
+        <xmax>825</xmax>
+        <ymin>615</ymin>
+        <ymax>837</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>86</xmin>
+        <xmax>378</xmax>
+        <ymin>646</ymin>
+        <ymax>758</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

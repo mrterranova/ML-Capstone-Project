@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1647</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>1310</xmin>
+        <xmax>1489</xmax>
+        <ymin>1385</ymin>
+        <ymax>1546</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>111</id>
+      <name>Pinnularia brebissonii</name>
+      <bbox>
+        <xmin>701</xmin>
+        <xmax>1314</xmax>
+        <ymin>468</ymin>
+        <ymax>1216</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

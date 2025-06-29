@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1694</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>75</id>
+      <name>Nitzschia palea</name>
+      <bbox>
+        <xmin>780</xmin>
+        <xmax>1402</xmax>
+        <ymin>1327</ymin>
+        <ymax>1505</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

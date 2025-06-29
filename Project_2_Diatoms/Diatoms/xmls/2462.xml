@@ -1,0 +1,51 @@
+<annotation>
+  <filename>2462</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>4</segmented>
+  <objects>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>746</xmin>
+        <xmax>860</xmax>
+        <ymin>861</ymin>
+        <ymax>1208</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>1595</xmin>
+        <xmax>1782</xmax>
+        <ymin>724</ymin>
+        <ymax>1037</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>895</xmin>
+        <xmax>1109</xmax>
+        <ymin>602</ymin>
+        <ymax>859</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>415</xmin>
+        <xmax>701</xmax>
+        <ymin>1403</ymin>
+        <ymax>1512</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

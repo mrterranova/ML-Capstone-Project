@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1947</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>120</id>
+      <name>Gomphonema supertergestinum</name>
+      <bbox>
+        <xmin>1156</xmin>
+        <xmax>1368</xmax>
+        <ymin>609</ymin>
+        <ymax>875</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

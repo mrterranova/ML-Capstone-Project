@@ -1,0 +1,41 @@
+<annotation>
+  <filename>2248</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>1109</xmin>
+        <xmax>1229</xmax>
+        <ymin>1215</ymin>
+        <ymax>1458</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>310</xmin>
+        <xmax>533</xmax>
+        <ymin>1215</ymin>
+        <ymax>1422</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>226</xmin>
+        <xmax>466</xmax>
+        <ymin>779</ymin>
+        <ymax>1069</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

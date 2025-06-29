@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1355</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>98</id>
+      <name>Hantzschiana abundans</name>
+      <bbox>
+        <xmin>723</xmin>
+        <xmax>1121</xmax>
+        <ymin>655</ymin>
+        <ymax>1345</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

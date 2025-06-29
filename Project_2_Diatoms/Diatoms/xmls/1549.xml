@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1549</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>99</id>
+      <name>Cymbella excisa var. subcapitata</name>
+      <bbox>
+        <xmin>887</xmin>
+        <xmax>1370</xmax>
+        <ymin>977</ymin>
+        <ymax>1542</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>99</id>
+      <name>Cymbella excisa var. subcapitata</name>
+      <bbox>
+        <xmin>923</xmin>
+        <xmax>1563</xmax>
+        <ymin>205</ymin>
+        <ymax>493</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

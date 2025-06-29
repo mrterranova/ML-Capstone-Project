@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2015</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>87</id>
+      <name>Cymbella excisa var. procera</name>
+      <bbox>
+        <xmin>469</xmin>
+        <xmax>837</xmax>
+        <ymin>694</ymin>
+        <ymax>846</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

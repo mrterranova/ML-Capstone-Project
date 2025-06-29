@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2511</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>118</id>
+      <name>Gomphonema calcifugum</name>
+      <bbox>
+        <xmin>1009</xmin>
+        <xmax>1093</xmax>
+        <ymin>468</ymin>
+        <ymax>778</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>719</xmin>
+        <xmax>1064</xmax>
+        <ymin>395</ymin>
+        <ymax>490</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

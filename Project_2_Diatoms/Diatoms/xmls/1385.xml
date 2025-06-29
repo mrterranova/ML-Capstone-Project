@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1385</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>94</id>
+      <name>Denticula kuetzingii</name>
+      <bbox>
+        <xmin>716</xmin>
+        <xmax>1098</xmax>
+        <ymin>597</ymin>
+        <ymax>846</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>892</xmin>
+        <xmax>1418</xmax>
+        <ymin>877</ymin>
+        <ymax>1010</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

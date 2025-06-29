@@ -1,0 +1,41 @@
+<annotation>
+  <filename>1904</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>1507</xmin>
+        <xmax>1601</xmax>
+        <ymin>1011</ymin>
+        <ymax>1456</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>1424</xmin>
+        <xmax>1580</xmax>
+        <ymin>664</ymin>
+        <ymax>838</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>511</xmin>
+        <xmax>792</xmax>
+        <ymin>293</ymin>
+        <ymax>669</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

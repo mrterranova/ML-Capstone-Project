@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2534</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>664</xmin>
+        <xmax>900</xmax>
+        <ymin>361</ymin>
+        <ymax>611</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>1070</xmin>
+        <xmax>1441</xmax>
+        <ymin>965</ymin>
+        <ymax>1058</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

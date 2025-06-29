@@ -1,0 +1,41 @@
+<annotation>
+  <filename>1968</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>668</xmin>
+        <xmax>765</xmax>
+        <ymin>695</ymin>
+        <ymax>1088</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>1120</xmin>
+        <xmax>1225</xmax>
+        <ymin>211</ymin>
+        <ymax>341</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>624</xmin>
+        <xmax>932</xmax>
+        <ymin>102</ymin>
+        <ymax>378</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

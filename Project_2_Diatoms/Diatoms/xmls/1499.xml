@@ -1,0 +1,51 @@
+<annotation>
+  <filename>1499</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>4</segmented>
+  <objects>
+    <object>
+      <id>91</id>
+      <name>Halamphora veneta</name>
+      <bbox>
+        <xmin>1687</xmin>
+        <xmax>1854</xmax>
+        <ymin>44</ymin>
+        <ymax>287</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>1546</xmin>
+        <xmax>1768</xmax>
+        <ymin>389</ymin>
+        <ymax>901</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>111</id>
+      <name>Pinnularia brebissonii</name>
+      <bbox>
+        <xmin>938</xmin>
+        <xmax>1370</xmax>
+        <ymin>237</ymin>
+        <ymax>728</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>59</xmin>
+        <xmax>587</xmax>
+        <ymin>915</ymin>
+        <ymax>1060</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

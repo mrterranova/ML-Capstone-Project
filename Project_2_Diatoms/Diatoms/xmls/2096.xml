@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2096</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>128</id>
+      <name>Navicula upsaliensis</name>
+      <bbox>
+        <xmin>1519</xmin>
+        <xmax>1761</xmax>
+        <ymin>718</ymin>
+        <ymax>1086</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>19</id>
+      <name>Navicula tripunctata</name>
+      <bbox>
+        <xmin>589</xmin>
+        <xmax>1134</xmax>
+        <ymin>435</ymin>
+        <ymax>1220</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

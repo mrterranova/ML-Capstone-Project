@@ -1,0 +1,41 @@
+<annotation>
+  <filename>2250</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>65</id>
+      <name>Humidophila contenta</name>
+      <bbox>
+        <xmin>1820</xmin>
+        <xmax>1921</xmax>
+        <ymin>177</ymin>
+        <ymax>282</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>1065</xmin>
+        <xmax>1166</xmax>
+        <ymin>364</ymin>
+        <ymax>728</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>258</xmin>
+        <xmax>392</xmax>
+        <ymin>370</ymin>
+        <ymax>650</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

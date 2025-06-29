@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2581</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>65</id>
+      <name>Humidophila contenta</name>
+      <bbox>
+        <xmin>1493</xmin>
+        <xmax>1573</xmax>
+        <ymin>542</ymin>
+        <ymax>706</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>1250</xmin>
+        <xmax>1595</xmax>
+        <ymin>943</ymin>
+        <ymax>1035</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

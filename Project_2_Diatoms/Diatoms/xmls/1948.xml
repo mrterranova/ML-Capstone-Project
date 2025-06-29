@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1948</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>88</id>
+      <name>Gomphonema tergestinum</name>
+      <bbox>
+        <xmin>899</xmin>
+        <xmax>1062</xmax>
+        <ymin>863</ymin>
+        <ymax>1058</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

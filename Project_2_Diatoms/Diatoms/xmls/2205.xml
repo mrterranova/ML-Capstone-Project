@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2205</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>128</id>
+      <name>Navicula upsaliensis</name>
+      <bbox>
+        <xmin>411</xmin>
+        <xmax>599</xmax>
+        <ymin>625</ymin>
+        <ymax>1187</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

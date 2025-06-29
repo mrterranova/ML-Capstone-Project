@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1927</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>421</xmin>
+        <xmax>495</xmax>
+        <ymin>261</ymin>
+        <ymax>476</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>87</id>
+      <name>Cymbella excisa var. procera</name>
+      <bbox>
+        <xmin>783</xmin>
+        <xmax>938</xmax>
+        <ymin>758</ymin>
+        <ymax>1178</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

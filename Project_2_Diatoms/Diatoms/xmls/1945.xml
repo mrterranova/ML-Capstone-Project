@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1945</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>1189</xmin>
+        <xmax>1363</xmax>
+        <ymin>843</ymin>
+        <ymax>1092</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>592</xmin>
+        <xmax>818</xmax>
+        <ymin>662</ymin>
+        <ymax>1092</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2353</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>51</id>
+      <name>Gomphonema pumilum</name>
+      <bbox>
+        <xmin>864</xmin>
+        <xmax>999</xmax>
+        <ymin>925</ymin>
+        <ymax>1196</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>1157</xmin>
+        <xmax>1445</xmax>
+        <ymin>964</ymin>
+        <ymax>1068</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

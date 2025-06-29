@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1458</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>108</id>
+      <name>Epithemia argus</name>
+      <bbox>
+        <xmin>845</xmin>
+        <xmax>1395</xmax>
+        <ymin>417</ymin>
+        <ymax>826</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1849</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>86</id>
+      <name>Cymbella excisa</name>
+      <bbox>
+        <xmin>1227</xmin>
+        <xmax>1480</xmax>
+        <ymin>382</ymin>
+        <ymax>971</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>284</xmin>
+        <xmax>572</xmax>
+        <ymin>827</ymin>
+        <ymax>1169</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2354</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>1261</xmin>
+        <xmax>1383</xmax>
+        <ymin>1084</ymin>
+        <ymax>1367</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>684</xmin>
+        <xmax>904</xmax>
+        <ymin>368</ymin>
+        <ymax>551</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

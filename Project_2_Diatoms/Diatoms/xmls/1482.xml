@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1482</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>96</id>
+      <name>Nitzschia hantzschiana</name>
+      <bbox>
+        <xmin>1799</xmin>
+        <xmax>1942</xmax>
+        <ymin>17</ymin>
+        <ymax>451</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>91</id>
+      <name>Halamphora veneta</name>
+      <bbox>
+        <xmin>840</xmin>
+        <xmax>1048</xmax>
+        <ymin>1042</ymin>
+        <ymax>1348</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

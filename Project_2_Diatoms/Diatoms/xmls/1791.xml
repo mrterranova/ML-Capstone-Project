@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1791</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>138</xmin>
+        <xmax>464</xmax>
+        <ymin>1251</ymin>
+        <ymax>1350</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>86</id>
+      <name>Cymbella excisa</name>
+      <bbox>
+        <xmin>1020</xmin>
+        <xmax>1387</xmax>
+        <ymin>713</ymin>
+        <ymax>950</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

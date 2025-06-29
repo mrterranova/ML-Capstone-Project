@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2545</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>978</xmin>
+        <xmax>1201</xmax>
+        <ymin>819</ymin>
+        <ymax>1060</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>1802</xmin>
+        <xmax>2039</xmax>
+        <ymin>1223</ymin>
+        <ymax>1482</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

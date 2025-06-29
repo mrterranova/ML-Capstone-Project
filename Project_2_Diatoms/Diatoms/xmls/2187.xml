@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2187</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>130</id>
+      <name>Amphora inariensis</name>
+      <bbox>
+        <xmin>130</xmin>
+        <xmax>342</xmax>
+        <ymin>190</ymin>
+        <ymax>565</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>29</id>
+      <name>Cocconeis pseudolineata</name>
+      <bbox>
+        <xmin>960</xmin>
+        <xmax>1174</xmax>
+        <ymin>471</ymin>
+        <ymax>777</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

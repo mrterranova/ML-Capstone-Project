@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2453</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>1829</xmin>
+        <xmax>2069</xmax>
+        <ymin>1012</ymin>
+        <ymax>1137</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

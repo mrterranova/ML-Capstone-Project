@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1950</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>86</id>
+      <name>Cymbella excisa</name>
+      <bbox>
+        <xmin>1342</xmin>
+        <xmax>1627</xmax>
+        <ymin>757</ymin>
+        <ymax>1072</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

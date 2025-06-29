@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2619</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>64</id>
+      <name>Sellaphora radiosa</name>
+      <bbox>
+        <xmin>668</xmin>
+        <xmax>869</xmax>
+        <ymin>1239</ymin>
+        <ymax>1341</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>778</xmin>
+        <xmax>1038</xmax>
+        <ymin>1060</ymin>
+        <ymax>1164</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

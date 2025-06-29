@@ -1,0 +1,41 @@
+<annotation>
+  <filename>2712</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>31</xmin>
+        <xmax>278</xmax>
+        <ymin>893</ymin>
+        <ymax>1007</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>96</id>
+      <name>Nitzschia hantzschiana</name>
+      <bbox>
+        <xmin>45</xmin>
+        <xmax>344</xmax>
+        <ymin>1189</ymin>
+        <ymax>1409</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>1129</xmin>
+        <xmax>1466</xmax>
+        <ymin>611</ymin>
+        <ymax>725</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

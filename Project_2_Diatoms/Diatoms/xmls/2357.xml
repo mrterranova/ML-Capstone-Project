@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2357</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>65</id>
+      <name>Humidophila contenta</name>
+      <bbox>
+        <xmin>136</xmin>
+        <xmax>283</xmax>
+        <ymin>853</ymin>
+        <ymax>914</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>65</id>
+      <name>Humidophila contenta</name>
+      <bbox>
+        <xmin>806</xmin>
+        <xmax>976</xmax>
+        <ymin>680</ymin>
+        <ymax>831</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

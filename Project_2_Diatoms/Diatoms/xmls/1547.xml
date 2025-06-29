@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1547</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>105</id>
+      <name>Luticola nivalis</name>
+      <bbox>
+        <xmin>344</xmin>
+        <xmax>624</xmax>
+        <ymin>1031</ymin>
+        <ymax>1177</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

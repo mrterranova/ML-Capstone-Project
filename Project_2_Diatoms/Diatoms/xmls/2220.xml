@@ -1,0 +1,41 @@
+<annotation>
+  <filename>2220</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>950</xmin>
+        <xmax>1059</xmax>
+        <ymin>861</ymin>
+        <ymax>1202</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>36</id>
+      <name>Navicula reichardtiana</name>
+      <bbox>
+        <xmin>1013</xmin>
+        <xmax>1173</xmax>
+        <ymin>326</ymin>
+        <ymax>657</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>194</xmin>
+        <xmax>526</xmax>
+        <ymin>147</ymin>
+        <ymax>380</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

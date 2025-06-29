@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2003</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>93</id>
+      <name>Cymbopleura amphicephala</name>
+      <bbox>
+        <xmin>921</xmin>
+        <xmax>1226</xmax>
+        <ymin>687</ymin>
+        <ymax>1034</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

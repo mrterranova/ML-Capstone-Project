@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1533</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>99</id>
+      <name>Cymbella excisa var. subcapitata</name>
+      <bbox>
+        <xmin>582</xmin>
+        <xmax>862</xmax>
+        <ymin>311</ymin>
+        <ymax>962</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>111</id>
+      <name>Pinnularia brebissonii</name>
+      <bbox>
+        <xmin>710</xmin>
+        <xmax>1008</xmax>
+        <ymin>882</ymin>
+        <ymax>1395</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

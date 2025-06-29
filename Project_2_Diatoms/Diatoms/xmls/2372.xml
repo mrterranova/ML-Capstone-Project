@@ -1,0 +1,41 @@
+<annotation>
+  <filename>2372</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>49</id>
+      <name>Planothidium lanceolatum</name>
+      <bbox>
+        <xmin>795</xmin>
+        <xmax>1064</xmax>
+        <ymin>972</ymin>
+        <ymax>1080</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>7</id>
+      <name>Meridion circulare</name>
+      <bbox>
+        <xmin>357</xmin>
+        <xmax>667</xmax>
+        <ymin>75</ymin>
+        <ymax>193</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>11</id>
+      <name>Encyonema silesiacum</name>
+      <bbox>
+        <xmin>601</xmin>
+        <xmax>1117</xmax>
+        <ymin>802</ymin>
+        <ymax>1004</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

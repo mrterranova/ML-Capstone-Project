@@ -1,0 +1,41 @@
+<annotation>
+  <filename>1981</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>9</id>
+      <name>Adlafia minuscula</name>
+      <bbox>
+        <xmin>1509</xmin>
+        <xmax>1718</xmax>
+        <ymin>117</ymin>
+        <ymax>186</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>1075</xmin>
+        <xmax>1439</xmax>
+        <ymin>722</ymin>
+        <ymax>1004</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>633</xmin>
+        <xmax>1029</xmax>
+        <ymin>840</ymin>
+        <ymax>1099</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1576</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>108</id>
+      <name>Epithemia argus</name>
+      <bbox>
+        <xmin>1286</xmin>
+        <xmax>1476</xmax>
+        <ymin>33</ymin>
+        <ymax>611</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>99</id>
+      <name>Cymbella excisa var. subcapitata</name>
+      <bbox>
+        <xmin>1526</xmin>
+        <xmax>1881</xmax>
+        <ymin>876</ymin>
+        <ymax>1504</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

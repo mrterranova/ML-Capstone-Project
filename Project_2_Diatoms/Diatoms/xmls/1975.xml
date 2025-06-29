@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1975</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>746</xmin>
+        <xmax>938</xmax>
+        <ymin>412</ymin>
+        <ymax>594</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>86</id>
+      <name>Cymbella excisa</name>
+      <bbox>
+        <xmin>1043</xmin>
+        <xmax>1277</xmax>
+        <ymin>624</ymin>
+        <ymax>989</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

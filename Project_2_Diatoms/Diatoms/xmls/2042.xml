@@ -1,0 +1,21 @@
+<annotation>
+  <filename>2042</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>3</id>
+      <name>Nitzschia linearis</name>
+      <bbox>
+        <xmin>215</xmin>
+        <xmax>2055</xmax>
+        <ymin>122</ymin>
+        <ymax>1518</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,61 @@
+<annotation>
+  <filename>2070</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>5</segmented>
+  <objects>
+    <object>
+      <id>95</id>
+      <name>Navicula cryptotenelloides</name>
+      <bbox>
+        <xmin>549</xmin>
+        <xmax>645</xmax>
+        <ymin>365</ymin>
+        <ymax>726</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>128</id>
+      <name>Navicula upsaliensis</name>
+      <bbox>
+        <xmin>370</xmin>
+        <xmax>547</xmax>
+        <ymin>280</ymin>
+        <ymax>768</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>133</id>
+      <name>Stauroneis blazenciciae</name>
+      <bbox>
+        <xmin>1819</xmin>
+        <xmax>2094</xmax>
+        <ymin>24</ymin>
+        <ymax>258</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>128</id>
+      <name>Navicula upsaliensis</name>
+      <bbox>
+        <xmin>827</xmin>
+        <xmax>1383</xmax>
+        <ymin>381</ymin>
+        <ymax>564</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>134</id>
+      <name>Nitzschia recta</name>
+      <bbox>
+        <xmin>630</xmin>
+        <xmax>1889</xmax>
+        <ymin>148</ymin>
+        <ymax>403</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1743</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>88</id>
+      <name>Gomphonema tergestinum</name>
+      <bbox>
+        <xmin>813</xmin>
+        <xmax>937</xmax>
+        <ymin>174</ymin>
+        <ymax>468</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>2</id>
+      <name>Fragilaria recapitellata</name>
+      <bbox>
+        <xmin>1417</xmin>
+        <xmax>1591</xmax>
+        <ymin>739</ymin>
+        <ymax>962</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

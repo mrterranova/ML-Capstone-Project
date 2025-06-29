@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1869</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>88</id>
+      <name>Gomphonema tergestinum</name>
+      <bbox>
+        <xmin>779</xmin>
+        <xmax>950</xmax>
+        <ymin>998</ymin>
+        <ymax>1207</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>83</id>
+      <name>Diatoma moniliformis</name>
+      <bbox>
+        <xmin>1012</xmin>
+        <xmax>1208</xmax>
+        <ymin>321</ymin>
+        <ymax>694</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

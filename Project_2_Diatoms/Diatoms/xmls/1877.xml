@@ -1,0 +1,31 @@
+<annotation>
+  <filename>1877</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>1075</xmin>
+        <xmax>1391</xmax>
+        <ymin>937</ymin>
+        <ymax>1267</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>116</id>
+      <name>Surirella brebissonii var. kuetzingii</name>
+      <bbox>
+        <xmin>1040</xmin>
+        <xmax>1435</xmax>
+        <ymin>429</ymin>
+        <ymax>651</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

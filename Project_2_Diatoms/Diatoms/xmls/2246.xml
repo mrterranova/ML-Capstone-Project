@@ -1,0 +1,31 @@
+<annotation>
+  <filename>2246</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>2</segmented>
+  <objects>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>190</xmin>
+        <xmax>448</xmax>
+        <ymin>112</ymin>
+        <ymax>378</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>6</id>
+      <name>Gomphonema olivaceum</name>
+      <bbox>
+        <xmin>715</xmin>
+        <xmax>1027</xmax>
+        <ymin>879</ymin>
+        <ymax>1074</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

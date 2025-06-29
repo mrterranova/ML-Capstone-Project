@@ -1,0 +1,41 @@
+<annotation>
+  <filename>1534</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>3</segmented>
+  <objects>
+    <object>
+      <id>105</id>
+      <name>Luticola nivalis</name>
+      <bbox>
+        <xmin>1181</xmin>
+        <xmax>1438</xmax>
+        <ymin>864</ymin>
+        <ymax>1008</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>99</id>
+      <name>Cymbella excisa var. subcapitata</name>
+      <bbox>
+        <xmin>1428</xmin>
+        <xmax>1767</xmax>
+        <ymin>431</ymin>
+        <ymax>1029</ymax>
+      </bbox>
+    </object>
+    <object>
+      <id>35</id>
+      <name>Navicula cryptotenella</name>
+      <bbox>
+        <xmin>178</xmin>
+        <xmax>631</xmax>
+        <ymin>937</ymin>
+        <ymax>1384</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>

@@ -1,0 +1,21 @@
+<annotation>
+  <filename>1818</filename>
+  <size>
+    <width>2112</width>
+    <height>1584</height>
+    <depth>24</depth>
+  </size>
+  <segmented>1</segmented>
+  <objects>
+    <object>
+      <id>118</id>
+      <name>Gomphonema calcifugum</name>
+      <bbox>
+        <xmin>1360</xmin>
+        <xmax>1472</xmax>
+        <ymin>171</ymin>
+        <ymax>469</ymax>
+      </bbox>
+    </object>
+  </objects>
+</annotation>
