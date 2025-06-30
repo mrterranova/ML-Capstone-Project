@@ -19,6 +19,18 @@ Data has been uploaded: diatom images including annotations and outlines. Data c
 - Diatoms.org - Images were manually pulled and relabeled from this website in order to preserve the genus/species of the diatom image.
 - Outlines were created by data gatherer for genus types needing more images in order to recognize the overall shape of the diatom. 
 
+ALERT: There were many failures uploading images from Kaggle file. 
+In order to see the data, please go to https://www.kaggle.com/datasets/huseyingunduz/diatom-dataset and download zip. Replace file 'images' with that inside zip and uncomment code to run. (Hard-coded number images in file)
+
+Or you can run by the following code: 
+`import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("huseyingunduz/diatom-dataset")
+
+print("Path to dataset files:", path)`
+
+
 Please see the following for how data was collected: [Project_2_Python_File](Project_2_Diatoms/16.4%20Collecting_Diatom_Data.ipynb)
 
 Total Count of Samples: 15,002
