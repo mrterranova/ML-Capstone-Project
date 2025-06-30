@@ -22,6 +22,9 @@ Data has been uploaded: diatom images including annotations and outlines. Data c
 ALERT: There were many failures uploading images from Kaggle file. 
 In order to see the data, please go to https://www.kaggle.com/datasets/huseyingunduz/diatom-dataset and download zip. Replace file 'images' with that inside zip and uncomment code to run. (Hard-coded number images in file)
 
+<img width="554" alt="Screenshot 2025-06-30 at 1 28 09 AM" src="https://github.com/user-attachments/assets/a65d7523-ac81-4ef6-9699-c16489dc147e" />
+
+
 Or you can run by the following code: 
 `import kagglehub
 
